@@ -1,0 +1,32 @@
+{
+  "name": "Australia",
+  "country": {
+    "code": "AU",
+    "iso3": "AUS",
+    "name": "Australia",
+    "calling_code": "+61",
+    "default_currency_code": "AUD",
+    "timezone": "Australia/Sydney",
+    "address_format": "au",
+    "postal_code_label": "Postcode",
+    "tax_id_label": "ABN",
+    "has_regions": true
+  },
+  "language": { "code": "en", "name": "English" },
+  "currency": { "code": "AUD", "name": "Australian Dollar", "symbol": "A$" },
+  "taxes": [
+    { "class": "GST", "name": "GST 10%", "rate": 10, "priority": 100 },
+    { "class": "GST-free", "name": "GST-free 0%", "rate": 0, "priority": 100 }
+  ],
+  "units": { "weight": "kg", "dimension": "cm", "volume": "l" },
+  "regions": [
+    { "code": "ACT", "name": "Australian Capital Territory" },
+    { "code": "NSW", "name": "New South Wales" },
+    { "code": "NT", "name": "Northern Territory" },
+    { "code": "QLD", "name": "Queensland" },
+    { "code": "SA", "name": "South Australia" },
+    { "code": "TAS", "name": "Tasmania" },
+    { "code": "VIC", "name": "Victoria" },
+    { "code": "WA", "name": "Western Australia" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Japan",
+  "country": {
+    "code": "JP",
+    "iso3": "JPN",
+    "name": "Japan",
+    "calling_code": "+81",
+    "default_currency_code": "JPY",
+    "timezone": "Asia/Tokyo",
+    "address_format": "jp",
+    "postal_code_label": "Postal code",
+    "tax_id_label": "Invoice number",
+    "has_regions": true
+  },
+  "language": { "code": "ja", "name": "Japanese" },
+  "currency": { "code": "JPY", "name": "Japanese Yen", "symbol": "¥" },
+  "taxes": [
+    { "class": "CT", "name": "Consumption tax 10%", "rate": 10, "priority": 100 },
+    { "class": "CT-reduced", "name": "Consumption tax 8%", "rate": 8, "priority": 100 }
+  ],
+  "units": { "weight": "kg", "dimension": "cm", "volume": "l" },
+  "regions": [
+    { "code": "13", "name": "Tokyo" },
+    { "code": "27", "name": "Osaka" },
+    { "code": "14", "name": "Kanagawa" },
+    { "code": "23", "name": "Aichi" },
+    { "code": "01", "name": "Hokkaido" },
+    { "code": "40", "name": "Fukuoka" }
+  ]
+}

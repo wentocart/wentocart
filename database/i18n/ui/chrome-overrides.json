@@ -1,0 +1,2606 @@
+{
+    "Dashboard": {
+        "fr": "Tableau de bord",
+        "es": "Panel",
+        "it": "Pannello",
+        "ar": "لوحة التحكم",
+        "hi": "डैशबोर्ड"
+    },
+    "Catalog": {
+        "fr": "Catalogue",
+        "es": "Catálogo",
+        "it": "Catalogo",
+        "ar": "الكتالوج",
+        "hi": "कैटलॉग"
+    },
+    "Orders": {
+        "fr": "Commandes",
+        "es": "Pedidos",
+        "it": "Ordini",
+        "ar": "الطلبات",
+        "hi": "ऑर्डर"
+    },
+    "Customers": {
+        "fr": "Clients",
+        "es": "Clientes",
+        "it": "Clienti",
+        "ar": "العملاء",
+        "hi": "ग्राहक"
+    },
+    "Configure": {
+        "fr": "Configurer",
+        "es": "Configurar",
+        "it": "Configura",
+        "ar": "الإعدادات",
+        "hi": "कॉन्फ़िगर"
+    },
+    "Settings": {
+        "fr": "Paramètres",
+        "es": "Ajustes",
+        "it": "Impostazioni",
+        "ar": "الإعدادات",
+        "hi": "सेटिंग्स"
+    },
+    "Store": {
+        "fr": "Boutique",
+        "es": "Tienda",
+        "it": "Negozio",
+        "ar": "المتجر",
+        "hi": "स्टोर"
+    },
+    "General": {
+        "fr": "Général",
+        "es": "General",
+        "it": "Generale",
+        "ar": "عام",
+        "hi": "सामान्य"
+    },
+    "Save": {
+        "fr": "Enregistrer",
+        "es": "Guardar",
+        "it": "Salva",
+        "ar": "حفظ",
+        "hi": "सहेजें"
+    },
+    "Search": {
+        "fr": "Rechercher",
+        "es": "Buscar",
+        "it": "Cerca",
+        "ar": "بحث",
+        "hi": "खोज"
+    },
+    "Products": {
+        "fr": "Produits",
+        "es": "Productos",
+        "it": "Prodotti",
+        "ar": "المنتجات",
+        "hi": "उत्पाद"
+    },
+    "Product": {
+        "fr": "Produit",
+        "es": "Producto",
+        "it": "Prodotto",
+        "ar": "منتج",
+        "hi": "उत्पाद"
+    },
+    "Categories": {
+        "fr": "Catégories",
+        "es": "Categorías",
+        "it": "Categorie",
+        "ar": "الفئات",
+        "hi": "श्रेणियाँ"
+    },
+    "Category": {
+        "fr": "Catégorie",
+        "es": "Categoría",
+        "it": "Categoria",
+        "ar": "الفئة",
+        "hi": "श्रेणी"
+    },
+    "Cart": {
+        "fr": "Panier",
+        "es": "Carrito",
+        "it": "Carrello",
+        "ar": "السلة",
+        "hi": "कार्ट"
+    },
+    "Checkout": {
+        "fr": "Paiement",
+        "es": "Pago",
+        "it": "Cassa",
+        "ar": "الدفع",
+        "hi": "चेकआउट"
+    },
+    "Shop Now": {
+        "fr": "Acheter",
+        "es": "Comprar",
+        "it": "Acquista",
+        "ar": "تسوق الآن",
+        "hi": "अभी खरीदें"
+    },
+    "View All": {
+        "fr": "Tout voir",
+        "es": "Ver todo",
+        "it": "Vedi tutto",
+        "ar": "عرض الكل",
+        "hi": "सभी देखें"
+    },
+    "Search for products": {
+        "fr": "Rechercher des produits",
+        "es": "Buscar productos",
+        "it": "Cerca prodotti",
+        "ar": "ابحث عن المنتجات",
+        "hi": "उत्पाद खोजें"
+    },
+    "Shop by Featured Categories": {
+        "fr": "Acheter par catégorie",
+        "es": "Comprar por categoría",
+        "it": "Acquista per categoria",
+        "ar": "تسوق حسب الفئة",
+        "hi": "श्रेणी के अनुसार खरीदें"
+    },
+    "New Products": {
+        "fr": "Nouveaux produits",
+        "es": "Productos nuevos",
+        "it": "Nuovi prodotti",
+        "ar": "منتجات جديدة",
+        "hi": "नए उत्पाद"
+    },
+    "Add to cart": {
+        "fr": "Ajouter au panier",
+        "es": "Añadir al carrito",
+        "it": "Aggiungi al carrello",
+        "ar": "أضف إلى السلة",
+        "hi": "कार्ट में जोड़ें"
+    },
+    "Sign in": {
+        "fr": "Connexion",
+        "es": "Iniciar sesión",
+        "it": "Accedi",
+        "ar": "تسجيل الدخول",
+        "hi": "साइन इन"
+    },
+    "Account": {
+        "fr": "Compte",
+        "es": "Cuenta",
+        "it": "Account",
+        "ar": "الحساب",
+        "hi": "खाता"
+    },
+    "Home": {
+        "fr": "Accueil",
+        "es": "Inicio",
+        "it": "Home",
+        "ar": "الرئيسية",
+        "hi": "होम"
+    },
+    "Price": {
+        "fr": "Prix",
+        "es": "Precio",
+        "it": "Prezzo",
+        "ar": "السعر",
+        "hi": "कीमत"
+    },
+    "Quantity": {
+        "fr": "Quantité",
+        "es": "Cantidad",
+        "it": "Quantità",
+        "ar": "الكمية",
+        "hi": "मात्रा"
+    },
+    "Description": {
+        "fr": "Description",
+        "es": "Descripción",
+        "it": "Descrizione",
+        "ar": "الوصف",
+        "hi": "विवरण"
+    },
+    "Name": {
+        "fr": "Nom",
+        "es": "Nombre",
+        "it": "Nome",
+        "ar": "الاسم",
+        "hi": "नाम"
+    },
+    "Subcategories": {
+        "fr": "Sous-catégories",
+        "es": "Subcategorías",
+        "it": "Sottocategorie",
+        "ar": "الفئات الفرعية",
+        "hi": "उपश्रेणियाँ"
+    },
+    "No products match these filters": {
+        "fr": "Aucun produit ne correspond",
+        "es": "Ningún producto coincide",
+        "it": "Nessun prodotto corrisponde",
+        "ar": "لا توجد منتجات مطابقة",
+        "hi": "कोई उत्पाद मेल नहीं खाता"
+    },
+    "Language": {
+        "fr": "Langue",
+        "es": "Idioma",
+        "it": "Lingua",
+        "ar": "اللغة",
+        "hi": "भाषा"
+    },
+    "Currency": {
+        "fr": "Devise",
+        "es": "Moneda",
+        "it": "Valuta",
+        "ar": "العملة",
+        "hi": "मुद्रा"
+    },
+    "Out of stock": {
+        "fr": "Rupture de stock",
+        "es": "Agotado",
+        "it": "Esaurito",
+        "ar": "غير متوفر",
+        "hi": "स्टॉक में नहीं"
+    },
+    "In stock": {
+        "fr": "En stock",
+        "es": "En stock",
+        "it": "Disponibile",
+        "ar": "متوفر",
+        "hi": "स्टॉक में"
+    },
+    "Wishlist": {
+        "fr": "Favoris",
+        "es": "Favoritos",
+        "it": "Preferiti",
+        "ar": "المفضلة",
+        "hi": "विशलिस्ट"
+    },
+    "Compare": {
+        "fr": "Comparer",
+        "es": "Comparar",
+        "it": "Confronta",
+        "ar": "قارن",
+        "hi": "तुलना"
+    },
+    "Contact": {
+        "fr": "Contact",
+        "es": "Contacto",
+        "it": "Contatto",
+        "ar": "اتصل بنا",
+        "hi": "संपर्क"
+    },
+    "Shipping": {
+        "fr": "Livraison",
+        "es": "Envío",
+        "it": "Spedizione",
+        "ar": "الشحن",
+        "hi": "शिपिंग"
+    },
+    "Payment": {
+        "fr": "Paiement",
+        "es": "Pago",
+        "it": "Pagamento",
+        "ar": "الدفع",
+        "hi": "भुगतान"
+    },
+    "Order": {
+        "fr": "Commande",
+        "es": "Pedido",
+        "it": "Ordine",
+        "ar": "طلب",
+        "hi": "ऑर्डर"
+    },
+    "Total": {
+        "fr": "Total",
+        "es": "Total",
+        "it": "Totale",
+        "ar": "الإجمالي",
+        "hi": "कुल"
+    },
+    "Subtotal": {
+        "fr": "Sous-total",
+        "es": "Subtotal",
+        "it": "Subtotale",
+        "ar": "المجموع الفرعي",
+        "hi": "उप-योग"
+    },
+    "Continue shopping": {
+        "fr": "Continuer vos achats",
+        "es": "Seguir comprando",
+        "it": "Continua lo shopping",
+        "ar": "متابعة التسوق",
+        "hi": "खरीदारी जारी रखें"
+    },
+    "My account": {
+        "fr": "Mon compte",
+        "es": "Mi cuenta",
+        "it": "Il mio account",
+        "ar": "حسابي",
+        "hi": "मेरा खाता"
+    },
+    "Log out": {
+        "fr": "Déconnexion",
+        "es": "Cerrar sesión",
+        "it": "Esci",
+        "ar": "تسجيل الخروج",
+        "hi": "लॉग आउट"
+    },
+    "Email": {
+        "fr": "E-mail",
+        "es": "Correo",
+        "it": "Email",
+        "ar": "البريد",
+        "hi": "ईमेल"
+    },
+    "Password": {
+        "fr": "Mot de passe",
+        "es": "Contraseña",
+        "it": "Password",
+        "ar": "كلمة المرور",
+        "hi": "पासवर्ड"
+    },
+    "Address": {
+        "fr": "Adresse",
+        "es": "Dirección",
+        "it": "Indirizzo",
+        "ar": "العنوان",
+        "hi": "पता"
+    },
+    "Phone": {
+        "fr": "Téléphone",
+        "es": "Teléfono",
+        "it": "Telefono",
+        "ar": "الهاتف",
+        "hi": "फ़ोन"
+    },
+    "Search products, orders, customers…": {
+        "fr": "Rechercher produits, commandes, clients…",
+        "es": "Buscar productos, pedidos, clientes…",
+        "it": "Cerca prodotti, ordini, clienti…",
+        "ar": "ابحث عن المنتجات والطلبات والعملاء…",
+        "hi": "उत्पाद, ऑर्डर, ग्राहक खोजें…"
+    },
+    "View Shop": {
+        "fr": "Voir la boutique",
+        "es": "Ver tienda",
+        "it": "Vedi negozio",
+        "ar": "عرض المتجر",
+        "hi": "दुकान देखें"
+    },
+    "Default": {
+        "fr": "Par défaut",
+        "es": "Predeterminado",
+        "it": "Predefinito",
+        "ar": "افتراضي",
+        "hi": "डिफ़ॉल्ट"
+    },
+    "Operate": {
+        "fr": "Exploiter",
+        "es": "Operar",
+        "it": "Opera",
+        "ar": "التشغيل",
+        "hi": "संचालन"
+    },
+    "Design": {
+        "fr": "Design",
+        "es": "Diseño",
+        "it": "Design",
+        "ar": "التصميم",
+        "hi": "डिज़ाइन"
+    },
+    "International": {
+        "fr": "À l’international",
+        "es": "Internacional",
+        "it": "Internazionale",
+        "ar": "الدولي",
+        "hi": "अंतर्राष्ट्रीय"
+    },
+    "Staff": {
+        "fr": "Personnel",
+        "es": "Personal",
+        "it": "Personale",
+        "ar": "الموظفون",
+        "hi": "स्टाफ"
+    },
+    "Marketing": {
+        "fr": "Marketing",
+        "es": "Marketing",
+        "it": "Marketing",
+        "ar": "التسويق",
+        "hi": "मार्केटिंग"
+    },
+    "AI Assistant": {
+        "fr": "Assistant IA",
+        "es": "Asistente de IA",
+        "it": "Assistente IA",
+        "ar": "مساعد الذكاء الاصطناعي",
+        "hi": "एआई सहायक"
+    },
+    "Main menu": {
+        "fr": "Menu principal",
+        "es": "Menú principal",
+        "it": "Menu principale",
+        "ar": "القائمة الرئيسية",
+        "hi": "मुख्य मेनू"
+    },
+    "Bulk actions": {
+        "fr": "Actions groupées",
+        "es": "Acciones masivas",
+        "it": "Azioni di gruppo",
+        "ar": "إجراءات جماعية",
+        "hi": "थोक कार्रवाई"
+    },
+    "Slug": {
+        "fr": "Slug",
+        "es": "Slug",
+        "it": "Slug",
+        "ar": "المعرف",
+        "hi": "स्लग"
+    },
+    "Status": {
+        "fr": "Statut",
+        "es": "Estado",
+        "it": "Stato",
+        "ar": "الحالة",
+        "hi": "स्थिति"
+    },
+    "Action": {
+        "fr": "Action",
+        "es": "Acción",
+        "it": "Azione",
+        "ar": "إجراء",
+        "hi": "कार्रवाई"
+    },
+    "Actions": {
+        "fr": "Actions",
+        "es": "Acciones",
+        "it": "Azioni",
+        "ar": "إجراءات",
+        "hi": "कार्रवाइयाँ"
+    },
+    "Active": {
+        "fr": "Actif",
+        "es": "Activo",
+        "it": "Attivo",
+        "ar": "نشط",
+        "hi": "सक्रिय"
+    },
+    "Inactive": {
+        "fr": "Inactif",
+        "es": "Inactivo",
+        "it": "Inattivo",
+        "ar": "غير نشط",
+        "hi": "निष्क्रिय"
+    },
+    "All": {
+        "fr": "Tous",
+        "es": "Todos",
+        "it": "Tutti",
+        "ar": "الكل",
+        "hi": "सभी"
+    },
+    "Pos": {
+        "fr": "Pos",
+        "es": "Pos",
+        "it": "Pos",
+        "ar": "ترتيب",
+        "hi": "क्रम"
+    },
+    "Position": {
+        "fr": "Position",
+        "es": "Posición",
+        "it": "Posizione",
+        "ar": "الموضع",
+        "hi": "स्थिति"
+    },
+    "Search name": {
+        "fr": "Rechercher un nom",
+        "es": "Buscar nombre",
+        "it": "Cerca nome",
+        "ar": "بحث بالاسم",
+        "hi": "नाम खोजें"
+    },
+    "Search slug": {
+        "fr": "Rechercher un slug",
+        "es": "Buscar slug",
+        "it": "Cerca slug",
+        "ar": "بحث بالمعرف",
+        "hi": "स्लग खोजें"
+    },
+    "Search category": {
+        "fr": "Rechercher une catégorie",
+        "es": "Buscar categoría",
+        "it": "Cerca categoria",
+        "ar": "بحث عن فئة",
+        "hi": "श्रेणी खोजें"
+    },
+    "Search reference": {
+        "fr": "Rechercher une référence",
+        "es": "Buscar referencia",
+        "it": "Cerca riferimento",
+        "ar": "بحث بالمرجع",
+        "hi": "संदर्भ खोजें"
+    },
+    "subcategory": {
+        "fr": "sous-catégorie",
+        "es": "subcategoría",
+        "it": "sottocategoria",
+        "ar": "فئة فرعية",
+        "hi": "उपश्रेणी"
+    },
+    "subcategories": {
+        "fr": "sous-catégories",
+        "es": "subcategorías",
+        "it": "sottocategorie",
+        "ar": "فئات فرعية",
+        "hi": "उपश्रेणियाँ"
+    },
+    "Min": {
+        "fr": "Mini",
+        "es": "Mín",
+        "it": "Min",
+        "ar": "أدنى",
+        "hi": "न्यून"
+    },
+    "Max": {
+        "fr": "Maxi",
+        "es": "Máx",
+        "it": "Max",
+        "ar": "أقصى",
+        "hi": "अधिकतम"
+    },
+    "ID min": {
+        "fr": "ID min",
+        "es": "ID mín",
+        "it": "ID min",
+        "ar": "أدنى معرف",
+        "hi": "न्यूनतम आईडी"
+    },
+    "ID max": {
+        "fr": "ID max",
+        "es": "ID máx",
+        "it": "ID max",
+        "ar": "أقصى معرف",
+        "hi": "अधिकतम आईडी"
+    },
+    "Reference": {
+        "fr": "Référence",
+        "es": "Referencia",
+        "it": "Riferimento",
+        "ar": "المرجع",
+        "hi": "संदर्भ"
+    },
+    "Price (tax excl.)": {
+        "fr": "Prix (HT)",
+        "es": "Precio (sin IVA)",
+        "it": "Prezzo (IVA escl.)",
+        "ar": "السعر (بدون ضريبة)",
+        "hi": "कीमत (कर रहित)"
+    },
+    "Add category": {
+        "fr": "Ajouter une catégorie",
+        "es": "Añadir categoría",
+        "it": "Aggiungi categoria",
+        "ar": "إضافة فئة",
+        "hi": "श्रेणी जोड़ें"
+    },
+    "Add Product": {
+        "fr": "Ajouter un produit",
+        "es": "Añadir producto",
+        "it": "Aggiungi prodotto",
+        "ar": "إضافة منتج",
+        "hi": "उत्पाद जोड़ें"
+    },
+    "Inventory": {
+        "fr": "Inventaire",
+        "es": "Inventario",
+        "it": "Inventario",
+        "ar": "المخزون",
+        "hi": "इन्वेंटरी"
+    },
+    "Stock journal": {
+        "fr": "Journal de stock",
+        "es": "Diario de stock",
+        "it": "Registro scorte",
+        "ar": "سجل المخزون",
+        "hi": "स्टॉक जर्नल"
+    },
+    "Warehouses": {
+        "fr": "Entrepôts",
+        "es": "Almacenes",
+        "it": "Magazzini",
+        "ar": "المستودعات",
+        "hi": "गोदाम"
+    },
+    "Purchase orders": {
+        "fr": "Bons de commande",
+        "es": "Pedidos de compra",
+        "it": "Ordini di acquisto",
+        "ar": "أوامر الشراء",
+        "hi": "खरीद ऑर्डर"
+    },
+    "Gift cards": {
+        "fr": "Cartes cadeaux",
+        "es": "Tarjetas regalo",
+        "it": "Carte regalo",
+        "ar": "بطاقات الهدايا",
+        "hi": "गिफ्ट कार्ड"
+    },
+    "Brand": {
+        "fr": "Marque",
+        "es": "Marca",
+        "it": "Marca",
+        "ar": "العلامة",
+        "hi": "ब्रांड"
+    },
+    "Supplier": {
+        "fr": "Fournisseur",
+        "es": "Proveedor",
+        "it": "Fornitore",
+        "ar": "المورد",
+        "hi": "आपूर्तिकर्ता"
+    },
+    "Feature": {
+        "fr": "Caractéristique",
+        "es": "Característica",
+        "it": "Caratteristica",
+        "ar": "خاصية",
+        "hi": "विशेषता"
+    },
+    "Attribute": {
+        "fr": "Attribut",
+        "es": "Atributo",
+        "it": "Attributo",
+        "ar": "سمة",
+        "hi": "विशेषता"
+    },
+    "Files": {
+        "fr": "Fichiers",
+        "es": "Archivos",
+        "it": "File",
+        "ar": "ملفات",
+        "hi": "फ़ाइलें"
+    },
+    "Subscription plans": {
+        "fr": "Formules",
+        "es": "Planes",
+        "it": "Piani",
+        "ar": "خطط الاشتراك",
+        "hi": "सदस्यता योजनाएँ"
+    },
+    "Subscribers": {
+        "fr": "Abonnés",
+        "es": "Suscriptores",
+        "it": "Iscritti",
+        "ar": "المشتركون",
+        "hi": "सदस्य"
+    },
+    "Login \/ Register": {
+        "fr": "Connexion \/ Inscription",
+        "es": "Entrar \/ Registro",
+        "it": "Accedi \/ Registrati",
+        "ar": "دخول \/ تسجيل",
+        "hi": "लॉगिन \/ रजिस्टर"
+    },
+    "Featured Products": {
+        "fr": "Produits en vedette",
+        "es": "Productos destacados",
+        "it": "Prodotti in evidenza",
+        "ar": "منتجات مميزة",
+        "hi": "विशेष उत्पाद"
+    },
+    "Bestseller Products": {
+        "fr": "Meilleures ventes",
+        "es": "Más vendidos",
+        "it": "I più venduti",
+        "ar": "الأكثر مبيعاً",
+        "hi": "सर्वाधिक बिकने वाले"
+    },
+    "Shop": {
+        "fr": "Boutique",
+        "es": "Tienda",
+        "it": "Negozio",
+        "ar": "المتجر",
+        "hi": "दुकान"
+    },
+    "Menu": {
+        "fr": "Menu",
+        "es": "Menú",
+        "it": "Menu",
+        "ar": "القائمة",
+        "hi": "मेनू"
+    },
+    "More": {
+        "fr": "Plus",
+        "es": "Más",
+        "it": "Altro",
+        "ar": "المزيد",
+        "hi": "और"
+    },
+    "Help": {
+        "fr": "Aide",
+        "es": "Ayuda",
+        "it": "Aiuto",
+        "ar": "مساعدة",
+        "hi": "सहायता"
+    },
+    "About Us": {
+        "fr": "À propos",
+        "es": "Sobre nosotros",
+        "it": "Chi siamo",
+        "ar": "من نحن",
+        "hi": "हमारे बारे में"
+    },
+    "Contact Us": {
+        "fr": "Contactez-nous",
+        "es": "Contáctenos",
+        "it": "Contattaci",
+        "ar": "اتصل بنا",
+        "hi": "संपर्क करें"
+    },
+    "Select": {
+        "fr": "Sélectionner",
+        "es": "Seleccionar",
+        "it": "Seleziona",
+        "ar": "تحديد",
+        "hi": "चुनें"
+    },
+    "Delete": {
+        "fr": "Supprimer",
+        "es": "Eliminar",
+        "it": "Elimina",
+        "ar": "حذف",
+        "hi": "हटाएँ"
+    },
+    "Edit": {
+        "fr": "Modifier",
+        "es": "Editar",
+        "it": "Modifica",
+        "ar": "تعديل",
+        "hi": "संपादित करें"
+    },
+    "Save changes": {
+        "fr": "Enregistrer",
+        "es": "Guardar cambios",
+        "it": "Salva modifiche",
+        "ar": "حفظ التغييرات",
+        "hi": "बदलाव सहेजें"
+    },
+    "Cancel": {
+        "fr": "Annuler",
+        "es": "Cancelar",
+        "it": "Annulla",
+        "ar": "إلغاء",
+        "hi": "रद्द करें"
+    },
+    "Yes": {
+        "fr": "Oui",
+        "es": "Sí",
+        "it": "Sì",
+        "ar": "نعم",
+        "hi": "हाँ"
+    },
+    "No": {
+        "fr": "Non",
+        "es": "No",
+        "it": "No",
+        "ar": "لا",
+        "hi": "नहीं"
+    },
+    "Loading…": {
+        "fr": "Chargement…",
+        "es": "Cargando…",
+        "it": "Caricamento…",
+        "ar": "جارٍ التحميل…",
+        "hi": "लोड हो रहा है…"
+    },
+    "No records yet.": {
+        "fr": "Aucun enregistrement.",
+        "es": "Sin registros.",
+        "it": "Nessun record.",
+        "ar": "لا توجد سجلات.",
+        "hi": "अभी कोई रिकॉर्ड नहीं."
+    },
+    "Expand all": {
+        "fr": "Tout développer",
+        "es": "Expandir todo",
+        "it": "Espandi tutto",
+        "ar": "توسيع الكل",
+        "hi": "सभी खोलें"
+    },
+    "Collapse all": {
+        "fr": "Tout réduire",
+        "es": "Contraer todo",
+        "it": "Comprimi tutto",
+        "ar": "طي الكل",
+        "hi": "सभी समेटें"
+    },
+    "Expand": {
+        "fr": "Développer",
+        "es": "Expandir",
+        "it": "Espandi",
+        "ar": "توسيع",
+        "hi": "खोलें"
+    },
+    "Collapse": {
+        "fr": "Réduire",
+        "es": "Contraer",
+        "it": "Comprimi",
+        "ar": "طي",
+        "hi": "समेटें"
+    },
+    "All categories": {
+        "fr": "Toutes les catégories",
+        "es": "Todas las categorías",
+        "it": "Tutte le categorie",
+        "ar": "كل الفئات",
+        "hi": "सभी श्रेणियाँ"
+    },
+    "Active rate": {
+        "fr": "Taux actif",
+        "es": "Tasa activa",
+        "it": "Tasso attivi",
+        "ar": "نسبة النشط",
+        "hi": "सक्रिय दर"
+    },
+    "vs last 30 days": {
+        "fr": "vs 30 derniers jours",
+        "es": "vs últimos 30 días",
+        "it": "vs ultimi 30 giorni",
+        "ar": "مقارنة بآخر 30 يومًا",
+        "hi": "पिछले 30 दिनों से"
+    },
+    "Add child": {
+        "fr": "Ajouter un enfant",
+        "es": "Añadir hijo",
+        "it": "Aggiungi figlio",
+        "ar": "إضافة فرعي",
+        "hi": "चाइल्ड जोड़ें"
+    },
+    "Create category": {
+        "fr": "Créer une catégorie",
+        "es": "Crear categoría",
+        "it": "Crea categoria",
+        "ar": "إنشاء فئة",
+        "hi": "श्रेणी बनाएँ"
+    },
+    "Edit category": {
+        "fr": "Modifier la catégorie",
+        "es": "Editar categoría",
+        "it": "Modifica categoria",
+        "ar": "تعديل الفئة",
+        "hi": "श्रेणी संपादित करें"
+    },
+    "Parent category": {
+        "fr": "Catégorie parente",
+        "es": "Categoría padre",
+        "it": "Categoria padre",
+        "ar": "الفئة الأصل",
+        "hi": "मूल श्रेणी"
+    },
+    "No categories yet.": {
+        "fr": "Aucune catégorie.",
+        "es": "Sin categorías.",
+        "it": "Nessuna categoria.",
+        "ar": "لا توجد فئات.",
+        "hi": "अभी कोई श्रेणी नहीं."
+    },
+    "Activity": {
+        "fr": "Activité",
+        "es": "Actividad",
+        "it": "Attività",
+        "ar": "النشاط",
+        "hi": "गतिविधि"
+    },
+    "Store health": {
+        "fr": "Santé de la boutique",
+        "es": "Salud de la tienda",
+        "it": "Stato del negozio",
+        "ar": "صحة المتجر",
+        "hi": "स्टोर स्वास्थ्य"
+    },
+    "Webhooks & web services": {
+        "fr": "Webhooks et services web",
+        "es": "Webhooks y servicios web",
+        "it": "Webhook e servizi web",
+        "ar": "ويب هوك وخدمات الويب",
+        "hi": "वेबहुक और वेब सेवाएँ"
+    },
+    "Addresses": {
+        "fr": "Adresses",
+        "es": "Direcciones",
+        "it": "Indirizzi",
+        "ar": "العناوين",
+        "hi": "पते"
+    },
+    "Advanced": {
+        "fr": "Avancé",
+        "es": "Avanzado",
+        "it": "Avanzate",
+        "ar": "متقدم",
+        "hi": "उन्नत"
+    },
+    "Extensions": {
+        "fr": "Extensions",
+        "es": "Extensiones",
+        "it": "Estensioni",
+        "ar": "الإضافات",
+        "hi": "एक्सटेंशन"
+    },
+    "Companies": {
+        "fr": "Sociétés",
+        "es": "Empresas",
+        "it": "Aziende",
+        "ar": "الشركات",
+        "hi": "कंपनियाँ"
+    },
+    "Countries": {
+        "fr": "Pays",
+        "es": "Países",
+        "it": "Paesi",
+        "ar": "البلدان",
+        "hi": "देश"
+    },
+    "Currencies": {
+        "fr": "Devises",
+        "es": "Monedas",
+        "it": "Valute",
+        "ar": "العملات",
+        "hi": "मुद्राएँ"
+    },
+    "Customer": {
+        "fr": "Client",
+        "es": "Cliente",
+        "it": "Cliente",
+        "ar": "العميل",
+        "hi": "ग्राहक"
+    },
+    "Customer Group": {
+        "fr": "Groupe de clients",
+        "es": "Grupo de clientes",
+        "it": "Gruppo clienti",
+        "ar": "مجموعة العملاء",
+        "hi": "ग्राहक समूह"
+    },
+    "Quotes": {
+        "fr": "Devis",
+        "es": "Cotizaciones",
+        "it": "Preventivi",
+        "ar": "عروض الأسعار",
+        "hi": "कोटेशन"
+    },
+    "Questions": {
+        "fr": "Questions",
+        "es": "Preguntas",
+        "it": "Domande",
+        "ar": "الأسئلة",
+        "hi": "प्रश्न"
+    },
+    "Reviews": {
+        "fr": "Avis",
+        "es": "Reseñas",
+        "it": "Recensioni",
+        "ar": "التقييمات",
+        "hi": "समीक्षाएँ"
+    },
+    "Support": {
+        "fr": "Assistance",
+        "es": "Soporte",
+        "it": "Supporto",
+        "ar": "الدعم",
+        "hi": "सहायता"
+    },
+    "GDPR": {
+        "fr": "RGPD",
+        "es": "RGPD",
+        "it": "GDPR",
+        "ar": "حماية البيانات",
+        "hi": "जीडीपीआर"
+    },
+    "GDPR Data Requests": {
+        "fr": "Demandes RGPD",
+        "es": "Solicitudes RGPD",
+        "it": "Richieste GDPR",
+        "ar": "طلبات حماية البيانات",
+        "hi": "जीडीपीआर अनुरोध"
+    },
+    "Languages": {
+        "fr": "Langues",
+        "es": "Idiomas",
+        "it": "Lingue",
+        "ar": "اللغات",
+        "hi": "भाषाएँ"
+    },
+    "Localization": {
+        "fr": "Localisation",
+        "es": "Localización",
+        "it": "Localizzazione",
+        "ar": "التوطين",
+        "hi": "स्थानीयकरण"
+    },
+    "Menus": {
+        "fr": "Menus",
+        "es": "Menús",
+        "it": "Menu",
+        "ar": "القوائم",
+        "hi": "मेनू"
+    },
+    "Newsletter": {
+        "fr": "Newsletter",
+        "es": "Boletín",
+        "it": "Newsletter",
+        "ar": "النشرة",
+        "hi": "न्यूज़लेटर"
+    },
+    "Pages": {
+        "fr": "Pages",
+        "es": "Páginas",
+        "it": "Pagine",
+        "ar": "الصفحات",
+        "hi": "पृष्ठ"
+    },
+    "Payment methods": {
+        "fr": "Moyens de paiement",
+        "es": "Métodos de pago",
+        "it": "Metodi di pagamento",
+        "ar": "طرق الدفع",
+        "hi": "भुगतान तरीके"
+    },
+    "Shipping methods": {
+        "fr": "Modes de livraison",
+        "es": "Métodos de envío",
+        "it": "Metodi di spedizione",
+        "ar": "طرق الشحن",
+        "hi": "शिपिंग तरीके"
+    },
+    "Taxes": {
+        "fr": "Taxes",
+        "es": "Impuestos",
+        "it": "Tasse",
+        "ar": "الضرائب",
+        "hi": "कर"
+    },
+    "Themes": {
+        "fr": "Thèmes",
+        "es": "Temas",
+        "it": "Temi",
+        "ar": "السمات",
+        "hi": "थीम"
+    },
+    "Theme settings": {
+        "fr": "Réglages du thème",
+        "es": "Ajustes del tema",
+        "it": "Impostazioni tema",
+        "ar": "إعدادات السمة",
+        "hi": "थीम सेटिंग्स"
+    },
+    "Translations": {
+        "fr": "Traductions",
+        "es": "Traducciones",
+        "it": "Traduzioni",
+        "ar": "الترجمات",
+        "hi": "अनुवाद"
+    },
+    "Zones": {
+        "fr": "Zones",
+        "es": "Zonas",
+        "it": "Zone",
+        "ar": "المناطق",
+        "hi": "क्षेत्र"
+    },
+    "Roles": {
+        "fr": "Rôles",
+        "es": "Roles",
+        "it": "Ruoli",
+        "ar": "الأدوار",
+        "hi": "भूमिकाएँ"
+    },
+    "Permissions": {
+        "fr": "Autorisations",
+        "es": "Permisos",
+        "it": "Permessi",
+        "ar": "الأذونات",
+        "hi": "अनुमतियाँ"
+    },
+    "Employees": {
+        "fr": "Employés",
+        "es": "Empleados",
+        "it": "Dipendenti",
+        "ar": "الموظفون",
+        "hi": "कर्मचारी"
+    },
+    "Invoices": {
+        "fr": "Factures",
+        "es": "Facturas",
+        "it": "Fatture",
+        "ar": "الفواتير",
+        "hi": "चालान"
+    },
+    "Returns": {
+        "fr": "Retours",
+        "es": "Devoluciones",
+        "it": "Resi",
+        "ar": "المرتجعات",
+        "hi": "रिटर्न"
+    },
+    "Discounts": {
+        "fr": "Remises",
+        "es": "Descuentos",
+        "it": "Sconti",
+        "ar": "الخصومات",
+        "hi": "छूट"
+    },
+    "Brands": {
+        "fr": "Marques",
+        "es": "Marcas",
+        "it": "Marche",
+        "ar": "العلامات",
+        "hi": "ब्रांड"
+    },
+    "Features": {
+        "fr": "Caractéristiques",
+        "es": "Características",
+        "it": "Caratteristiche",
+        "ar": "الخصائص",
+        "hi": "विशेषताएँ"
+    },
+    "Suppliers": {
+        "fr": "Fournisseurs",
+        "es": "Proveedores",
+        "it": "Fornitori",
+        "ar": "الموردون",
+        "hi": "आपूर्तिकर्ता"
+    },
+    "Order statuses": {
+        "fr": "Statuts de commande",
+        "es": "Estados del pedido",
+        "it": "Stati ordine",
+        "ar": "حالات الطلب",
+        "hi": "ऑर्डर स्थितियाँ"
+    },
+    "Stock Alerts": {
+        "fr": "Alertes de stock",
+        "es": "Alertas de stock",
+        "it": "Avvisi scorte",
+        "ar": "تنبيهات المخزون",
+        "hi": "स्टॉक अलर्ट"
+    },
+    "Performance": {
+        "fr": "Performance",
+        "es": "Rendimiento",
+        "it": "Prestazioni",
+        "ar": "الأداء",
+        "hi": "प्रदर्शन"
+    },
+    "Images": {
+        "fr": "Images",
+        "es": "Imágenes",
+        "it": "Immagini",
+        "ar": "الصور",
+        "hi": "चित्र"
+    },
+    "URLs": {
+        "fr": "URLs",
+        "es": "URLs",
+        "it": "URL",
+        "ar": "الروابط",
+        "hi": "यूआरएल"
+    },
+    "SEO": {
+        "fr": "SEO",
+        "es": "SEO",
+        "it": "SEO",
+        "ar": "تحسين البحث",
+        "hi": "एसईओ"
+    },
+    "Blocks": {
+        "fr": "Blocs",
+        "es": "Bloques",
+        "it": "Blocchi",
+        "ar": "الكتل",
+        "hi": "ब्लॉक"
+    },
+    "Add": {
+        "fr": "Ajouter",
+        "es": "Añadir",
+        "it": "Aggiungi",
+        "ar": "إضافة",
+        "hi": "जोड़ें"
+    },
+    "Add new": {
+        "fr": "Ajouter",
+        "es": "Añadir nuevo",
+        "it": "Aggiungi nuovo",
+        "ar": "إضافة جديد",
+        "hi": "नया जोड़ें"
+    },
+    "Back": {
+        "fr": "Retour",
+        "es": "Volver",
+        "it": "Indietro",
+        "ar": "رجوع",
+        "hi": "वापस"
+    },
+    "Back to list": {
+        "fr": "Retour à la liste",
+        "es": "Volver a la lista",
+        "it": "Torna all’elenco",
+        "ar": "العودة إلى القائمة",
+        "hi": "सूची पर वापस"
+    },
+    "Clear": {
+        "fr": "Effacer",
+        "es": "Borrar",
+        "it": "Cancella",
+        "ar": "مسح",
+        "hi": "साफ़ करें"
+    },
+    "Close": {
+        "fr": "Fermer",
+        "es": "Cerrar",
+        "it": "Chiudi",
+        "ar": "إغلاق",
+        "hi": "बंद करें"
+    },
+    "Copy": {
+        "fr": "Copier",
+        "es": "Copiar",
+        "it": "Copia",
+        "ar": "نسخ",
+        "hi": "कॉपी"
+    },
+    "Create": {
+        "fr": "Créer",
+        "es": "Crear",
+        "it": "Crea",
+        "ar": "إنشاء",
+        "hi": "बनाएँ"
+    },
+    "Date": {
+        "fr": "Date",
+        "es": "Fecha",
+        "it": "Data",
+        "ar": "التاريخ",
+        "hi": "तारीख"
+    },
+    "Disable": {
+        "fr": "Désactiver",
+        "es": "Desactivar",
+        "it": "Disattiva",
+        "ar": "تعطيل",
+        "hi": "अक्षम करें"
+    },
+    "Enable": {
+        "fr": "Activer",
+        "es": "Activar",
+        "it": "Attiva",
+        "ar": "تفعيل",
+        "hi": "सक्षम करें"
+    },
+    "Enabled": {
+        "fr": "Activé",
+        "es": "Activado",
+        "it": "Attivato",
+        "ar": "مفعّل",
+        "hi": "सक्षम"
+    },
+    "Export": {
+        "fr": "Exporter",
+        "es": "Exportar",
+        "it": "Esporta",
+        "ar": "تصدير",
+        "hi": "निर्यात"
+    },
+    "Import": {
+        "fr": "Importer",
+        "es": "Importar",
+        "it": "Importa",
+        "ar": "استيراد",
+        "hi": "आयात"
+    },
+    "Filter": {
+        "fr": "Filtrer",
+        "es": "Filtrar",
+        "it": "Filtra",
+        "ar": "تصفية",
+        "hi": "फ़िल्टर"
+    },
+    "From": {
+        "fr": "De",
+        "es": "Desde",
+        "it": "Da",
+        "ar": "من",
+        "hi": "से"
+    },
+    "Hide": {
+        "fr": "Masquer",
+        "es": "Ocultar",
+        "it": "Nascondi",
+        "ar": "إخفاء",
+        "hi": "छिपाएँ"
+    },
+    "Image": {
+        "fr": "Image",
+        "es": "Imagen",
+        "it": "Immagine",
+        "ar": "صورة",
+        "hi": "चित्र"
+    },
+    "Items": {
+        "fr": "Articles",
+        "es": "Artículos",
+        "it": "Articoli",
+        "ar": "عناصر",
+        "hi": "आइटम"
+    },
+    "Next": {
+        "fr": "Suivant",
+        "es": "Siguiente",
+        "it": "Successivo",
+        "ar": "التالي",
+        "hi": "अगला"
+    },
+    "Previous": {
+        "fr": "Précédent",
+        "es": "Anterior",
+        "it": "Precedente",
+        "ar": "السابق",
+        "hi": "पिछला"
+    },
+    "None": {
+        "fr": "Aucun",
+        "es": "Ninguno",
+        "it": "Nessuno",
+        "ar": "لا شيء",
+        "hi": "कोई नहीं"
+    },
+    "Note": {
+        "fr": "Note",
+        "es": "Nota",
+        "it": "Nota",
+        "ar": "ملاحظة",
+        "hi": "नोट"
+    },
+    "Notes": {
+        "fr": "Notes",
+        "es": "Notas",
+        "it": "Note",
+        "ar": "ملاحظات",
+        "hi": "नोट्स"
+    },
+    "of": {
+        "fr": "sur",
+        "es": "de",
+        "it": "di",
+        "ar": "من",
+        "hi": "में से"
+    },
+    "Off": {
+        "fr": "Non",
+        "es": "No",
+        "it": "No",
+        "ar": "إيقاف",
+        "hi": "बंद"
+    },
+    "On": {
+        "fr": "Oui",
+        "es": "Sí",
+        "it": "Sì",
+        "ar": "تشغيل",
+        "hi": "चालू"
+    },
+    "optional": {
+        "fr": "facultatif",
+        "es": "opcional",
+        "it": "facoltativo",
+        "ar": "اختياري",
+        "hi": "वैकल्पिक"
+    },
+    "Refresh": {
+        "fr": "Actualiser",
+        "es": "Actualizar",
+        "it": "Aggiorna",
+        "ar": "تحديث",
+        "hi": "रीफ़्रेश"
+    },
+    "Remove": {
+        "fr": "Retirer",
+        "es": "Quitar",
+        "it": "Rimuovi",
+        "ar": "إزالة",
+        "hi": "हटाएँ"
+    },
+    "Reset": {
+        "fr": "Réinitialiser",
+        "es": "Restablecer",
+        "it": "Reimposta",
+        "ar": "إعادة تعيين",
+        "hi": "रीसेट"
+    },
+    "Reset filters": {
+        "fr": "Réinitialiser les filtres",
+        "es": "Restablecer filtros",
+        "it": "Reimposta filtri",
+        "ar": "إعادة تعيين عوامل التصفية",
+        "hi": "फ़िल्टर रीसेट करें"
+    },
+    "results": {
+        "fr": "résultats",
+        "es": "resultados",
+        "it": "risultati",
+        "ar": "نتائج",
+        "hi": "परिणाम"
+    },
+    "Search…": {
+        "fr": "Rechercher…",
+        "es": "Buscar…",
+        "it": "Cerca…",
+        "ar": "بحث…",
+        "hi": "खोजें…"
+    },
+    "selected": {
+        "fr": "sélectionnés",
+        "es": "seleccionados",
+        "it": "selezionati",
+        "ar": "محدد",
+        "hi": "चयनित"
+    },
+    "Showing": {
+        "fr": "Affichage",
+        "es": "Mostrando",
+        "it": "Visualizzazione",
+        "ar": "عرض",
+        "hi": "दिखा रहे हैं"
+    },
+    "SKU": {
+        "fr": "SKU",
+        "es": "SKU",
+        "it": "SKU",
+        "ar": "رمز المنتج",
+        "hi": "एसकेयू"
+    },
+    "to": {
+        "fr": "à",
+        "es": "a",
+        "it": "a",
+        "ar": "إلى",
+        "hi": "तक"
+    },
+    "View": {
+        "fr": "Voir",
+        "es": "Ver",
+        "it": "Vedi",
+        "ar": "عرض",
+        "hi": "देखें"
+    },
+    "View all": {
+        "fr": "Tout voir",
+        "es": "Ver todo",
+        "it": "Vedi tutto",
+        "ar": "عرض الكل",
+        "hi": "सभी देखें"
+    },
+    "Qty": {
+        "fr": "Qté",
+        "es": "Cant.",
+        "it": "Qtà",
+        "ar": "الكمية",
+        "hi": "मात्रा"
+    },
+    "Preview": {
+        "fr": "Aperçu",
+        "es": "Vista previa",
+        "it": "Anteprima",
+        "ar": "معاينة",
+        "hi": "पूर्वावलोकन"
+    },
+    "Type": {
+        "fr": "Type",
+        "es": "Tipo",
+        "it": "Tipo",
+        "ar": "النوع",
+        "hi": "प्रकार"
+    },
+    "Untitled": {
+        "fr": "Sans titre",
+        "es": "Sin título",
+        "it": "Senza titolo",
+        "ar": "بدون عنوان",
+        "hi": "बिना शीर्षक"
+    },
+    "In Stock": {
+        "fr": "En stock",
+        "es": "En stock",
+        "it": "Disponibile",
+        "ar": "متوفر",
+        "hi": "स्टॉक में"
+    },
+    "Out of Stock": {
+        "fr": "Rupture de stock",
+        "es": "Agotado",
+        "it": "Esaurito",
+        "ar": "غير متوفر",
+        "hi": "स्टॉक में नहीं"
+    },
+    "New Product": {
+        "fr": "Nouveau produit",
+        "es": "Nuevo producto",
+        "it": "Nuovo prodotto",
+        "ar": "منتج جديد",
+        "hi": "नया उत्पाद"
+    },
+    "Total Products": {
+        "fr": "Total des produits",
+        "es": "Total de productos",
+        "it": "Totale prodotti",
+        "ar": "إجمالي المنتجات",
+        "hi": "कुल उत्पाद"
+    },
+    "No products yet.": {
+        "fr": "Aucun produit.",
+        "es": "Aún no hay productos.",
+        "it": "Nessun prodotto.",
+        "ar": "لا توجد منتجات بعد.",
+        "hi": "अभी कोई उत्पाद नहीं."
+    },
+    "Price min": {
+        "fr": "Prix min",
+        "es": "Precio mín",
+        "it": "Prezzo min",
+        "ar": "أدنى سعر",
+        "hi": "न्यूनतम कीमत"
+    },
+    "Price max": {
+        "fr": "Prix max",
+        "es": "Precio máx",
+        "it": "Prezzo max",
+        "ar": "أقصى سعر",
+        "hi": "अधिकतम कीमत"
+    },
+    "Quantity min": {
+        "fr": "Quantité min",
+        "es": "Cantidad mín",
+        "it": "Quantità min",
+        "ar": "أدنى كمية",
+        "hi": "न्यूनतम मात्रा"
+    },
+    "Quantity max": {
+        "fr": "Quantité max",
+        "es": "Cantidad máx",
+        "it": "Quantità max",
+        "ar": "أقصى كمية",
+        "hi": "अधिकतम मात्रा"
+    },
+    "Filters": {
+        "fr": "Filtres",
+        "es": "Filtros",
+        "it": "Filtri",
+        "ar": "عوامل التصفية",
+        "hi": "फ़िल्टर"
+    },
+    "All Filters": {
+        "fr": "Tous les filtres",
+        "es": "Todos los filtros",
+        "it": "Tutti i filtri",
+        "ar": "كل عوامل التصفية",
+        "hi": "सभी फ़िल्टर"
+    },
+    "Clear all": {
+        "fr": "Tout effacer",
+        "es": "Borrar todo",
+        "it": "Cancella tutto",
+        "ar": "مسح الكل",
+        "hi": "सभी साफ़ करें"
+    },
+    "Sort by": {
+        "fr": "Trier par",
+        "es": "Ordenar por",
+        "it": "Ordina per",
+        "ar": "ترتيب حسب",
+        "hi": "क्रमबद्ध करें"
+    },
+    "Grid view": {
+        "fr": "Vue grille",
+        "es": "Vista de cuadrícula",
+        "it": "Vista griglia",
+        "ar": "عرض شبكي",
+        "hi": "ग्रिड दृश्य"
+    },
+    "List view": {
+        "fr": "Vue liste",
+        "es": "Vista de lista",
+        "it": "Vista elenco",
+        "ar": "عرض قائمة",
+        "hi": "सूची दृश्य"
+    },
+    "Availability": {
+        "fr": "Disponibilité",
+        "es": "Disponibilidad",
+        "it": "Disponibilità",
+        "ar": "التوفر",
+        "hi": "उपलब्धता"
+    },
+    "Discount": {
+        "fr": "Remise",
+        "es": "Descuento",
+        "it": "Sconto",
+        "ar": "خصم",
+        "hi": "छूट"
+    },
+    "Rating": {
+        "fr": "Note",
+        "es": "Valoración",
+        "it": "Valutazione",
+        "ar": "التقييم",
+        "hi": "रेटिंग"
+    },
+    "Price range": {
+        "fr": "Fourchette de prix",
+        "es": "Rango de precios",
+        "it": "Fascia di prezzo",
+        "ar": "نطاق السعر",
+        "hi": "कीमत सीमा"
+    },
+    "Deal of the Day": {
+        "fr": "Offre du jour",
+        "es": "Oferta del día",
+        "it": "Offerta del giorno",
+        "ar": "عرض اليوم",
+        "hi": "आज का सौदा"
+    },
+    "Popular Brands": {
+        "fr": "Marques populaires",
+        "es": "Marcas populares",
+        "it": "Marche popolari",
+        "ar": "علامات شائعة",
+        "hi": "लोकप्रिय ब्रांड"
+    },
+    "Join Our Newsletter": {
+        "fr": "Rejoignez la newsletter",
+        "es": "Únete al boletín",
+        "it": "Iscriviti alla newsletter",
+        "ar": "انضم إلى النشرة",
+        "hi": "न्यूज़लेटर से जुड़ें"
+    },
+    "Subscribe": {
+        "fr": "S’inscrire",
+        "es": "Suscribirse",
+        "it": "Iscriviti",
+        "ar": "اشتراك",
+        "hi": "सदस्यता लें"
+    },
+    "Your email address": {
+        "fr": "Votre adresse e-mail",
+        "es": "Tu correo",
+        "it": "Il tuo indirizzo email",
+        "ar": "بريدك الإلكتروني",
+        "hi": "आपका ईमेल"
+    },
+    "Read more": {
+        "fr": "Lire la suite",
+        "es": "Leer más",
+        "it": "Leggi di più",
+        "ar": "اقرأ المزيد",
+        "hi": "और पढ़ें"
+    },
+    "Read less": {
+        "fr": "Réduire",
+        "es": "Leer menos",
+        "it": "Leggi meno",
+        "ar": "اقرأ أقل",
+        "hi": "कम पढ़ें"
+    },
+    "About": {
+        "fr": "À propos",
+        "es": "Acerca de",
+        "it": "Informazioni",
+        "ar": "حول",
+        "hi": "परिचय"
+    },
+    "FAQ": {
+        "fr": "FAQ",
+        "es": "Preguntas frecuentes",
+        "it": "FAQ",
+        "ar": "الأسئلة الشائعة",
+        "hi": "सामान्य प्रश्न"
+    },
+    "My Account": {
+        "fr": "Mon compte",
+        "es": "Mi cuenta",
+        "it": "Il mio account",
+        "ar": "حسابي",
+        "hi": "मेरा खाता"
+    },
+    "My Cart": {
+        "fr": "Mon panier",
+        "es": "Mi carrito",
+        "it": "Il mio carrello",
+        "ar": "سلتي",
+        "hi": "मेरा कार्ट"
+    },
+    "Track Order": {
+        "fr": "Suivre la commande",
+        "es": "Seguir pedido",
+        "it": "Traccia ordine",
+        "ar": "تتبع الطلب",
+        "hi": "ऑर्डर ट्रैक करें"
+    },
+    "Track Your Order": {
+        "fr": "Suivre votre commande",
+        "es": "Sigue tu pedido",
+        "it": "Traccia il tuo ordine",
+        "ar": "تتبع طلبك",
+        "hi": "अपना ऑर्डर ट्रैक करें"
+    },
+    "Privacy Policy": {
+        "fr": "Politique de confidentialité",
+        "es": "Política de privacidad",
+        "it": "Informativa privacy",
+        "ar": "سياسة الخصوصية",
+        "hi": "गोपनीयता नीति"
+    },
+    "Terms and Conditions": {
+        "fr": "Conditions générales",
+        "es": "Términos y condiciones",
+        "it": "Termini e condizioni",
+        "ar": "الشروط والأحكام",
+        "hi": "नियम और शर्तें"
+    },
+    "Best sellers": {
+        "fr": "Meilleures ventes",
+        "es": "Más vendidos",
+        "it": "I più venduti",
+        "ar": "الأكثر مبيعًا",
+        "hi": "सर्वाधिक बिकने वाले"
+    },
+    "New products": {
+        "fr": "Nouveaux produits",
+        "es": "Productos nuevos",
+        "it": "Nuovi prodotti",
+        "ar": "منتجات جديدة",
+        "hi": "नए उत्पाद"
+    },
+    "Quick view": {
+        "fr": "Aperçu rapide",
+        "es": "Vista rápida",
+        "it": "Anteprima",
+        "ar": "عرض سريع",
+        "hi": "त्वरित दृश्य"
+    },
+    "Compare Products": {
+        "fr": "Comparer les produits",
+        "es": "Comparar productos",
+        "it": "Confronta prodotti",
+        "ar": "قارن المنتجات",
+        "hi": "उत्पादों की तुलना"
+    },
+    "All rights reserved.": {
+        "fr": "Tous droits réservés.",
+        "es": "Todos los derechos reservados.",
+        "it": "Tutti i diritti riservati.",
+        "ar": "جميع الحقوق محفوظة.",
+        "hi": "सर्वाधिकार सुरक्षित."
+    },
+    "Open menu": {
+        "fr": "Ouvrir le menu",
+        "es": "Abrir menú",
+        "it": "Apri menu",
+        "ar": "فتح القائمة",
+        "hi": "मेनू खोलें"
+    },
+    "Close menu": {
+        "fr": "Fermer le menu",
+        "es": "Cerrar menú",
+        "it": "Chiudi menu",
+        "ar": "إغلاق القائمة",
+        "hi": "मेनू बंद करें"
+    },
+    "Verified buyer": {
+        "fr": "Acheteur vérifié",
+        "es": "Comprador verificado",
+        "it": "Acquirente verificato",
+        "ar": "مشتري موثّق",
+        "hi": "सत्यापित खरीदार"
+    },
+    "Verified reviewer": {
+        "fr": "Avis vérifié",
+        "es": "Opinión verificada",
+        "it": "Recensione verificata",
+        "ar": "مراجعة موثّقة",
+        "hi": "सत्यापित समीक्षा"
+    },
+    "Could not load the homepage.": {
+        "fr": "Impossible de charger l’accueil.",
+        "es": "No se pudo cargar el inicio.",
+        "it": "Impossibile caricare la home.",
+        "ar": "تعذر تحميل الصفحة الرئيسية.",
+        "hi": "होम पेज लोड नहीं हो सका."
+    },
+    "Meta title": {
+        "fr": "Méta-titre",
+        "es": "Metatítulo",
+        "it": "Meta titolo",
+        "ar": "عنوان ميتا",
+        "hi": "मेटा शीर्षक"
+    },
+    "Meta description": {
+        "fr": "Méta-description",
+        "es": "Meta descripción",
+        "it": "Meta descrizione",
+        "ar": "وصف ميتا",
+        "hi": "मेटा विवरण"
+    },
+    "Meta keywords": {
+        "fr": "Mots-clés",
+        "es": "Palabras clave",
+        "it": "Parole chiave",
+        "ar": "الكلمات المفتاحية",
+        "hi": "मेटा कीवर्ड"
+    },
+    "Media": {
+        "fr": "Médias",
+        "es": "Medios",
+        "it": "Media",
+        "ar": "الوسائط",
+        "hi": "मीडिया"
+    },
+    "Position min": {
+        "fr": "Position min",
+        "es": "Posición mín",
+        "it": "Posizione min",
+        "ar": "أدنى موضع",
+        "hi": "न्यूनतम स्थिति"
+    },
+    "Position max": {
+        "fr": "Position max",
+        "es": "Posición máx",
+        "it": "Posizione max",
+        "ar": "أقصى موضع",
+        "hi": "अधिकतम स्थिति"
+    },
+    "Select all on this page": {
+        "fr": "Tout sélectionner sur cette page",
+        "es": "Seleccionar todo en esta página",
+        "it": "Seleziona tutto in questa pagina",
+        "ar": "تحديد الكل في هذه الصفحة",
+        "hi": "इस पृष्ठ पर सभी चुनें"
+    },
+    "Delete this item?": {
+        "fr": "Supprimer cet élément ?",
+        "es": "¿Eliminar este elemento?",
+        "it": "Eliminare questo elemento?",
+        "ar": "حذف هذا العنصر؟",
+        "hi": "यह आइटम हटाएँ?"
+    },
+    "Delete selected items?": {
+        "fr": "Supprimer les éléments sélectionnés ?",
+        "es": "¿Eliminar los elementos seleccionados?",
+        "it": "Eliminare gli elementi selezionati?",
+        "ar": "حذف العناصر المحددة؟",
+        "hi": "चयनित आइटम हटाएँ?"
+    },
+    "No matches": {
+        "fr": "Aucun résultat",
+        "es": "Sin coincidencias",
+        "it": "Nessun risultato",
+        "ar": "لا توجد نتائج",
+        "hi": "कोई मेल नहीं"
+    },
+    "Items per page": {
+        "fr": "Éléments par page",
+        "es": "Elementos por página",
+        "it": "Elementi per pagina",
+        "ar": "عناصر في الصفحة",
+        "hi": "प्रति पृष्ठ आइटम"
+    },
+    "Main navigation": {
+        "fr": "Navigation principale",
+        "es": "Navegación principal",
+        "it": "Navigazione principale",
+        "ar": "التنقل الرئيسي",
+        "hi": "मुख्य नेविगेशन"
+    },
+    "Collapse sidebar": {
+        "fr": "Réduire la barre",
+        "es": "Contraer barra",
+        "it": "Comprimi barra",
+        "ar": "طي الشريط",
+        "hi": "साइडबार समेटें"
+    },
+    "Expand sidebar": {
+        "fr": "Développer la barre",
+        "es": "Expandir barra",
+        "it": "Espandi barra",
+        "ar": "توسيع الشريط",
+        "hi": "साइडबार खोलें"
+    },
+    "View my store": {
+        "fr": "Voir ma boutique",
+        "es": "Ver mi tienda",
+        "it": "Vedi il mio negozio",
+        "ar": "عرض متجري",
+        "hi": "मेरी दुकान देखें"
+    },
+    "Super admin": {
+        "fr": "Super administrateur",
+        "es": "Superadministrador",
+        "it": "Super amministratore",
+        "ar": "مدير أعلى",
+        "hi": "सुपर एडमिन"
+    },
+    "Maintenance": {
+        "fr": "Maintenance",
+        "es": "Mantenimiento",
+        "it": "Manutenzione",
+        "ar": "الصيانة",
+        "hi": "रखरखाव"
+    },
+    "Group": {
+        "fr": "Groupe",
+        "es": "Grupo",
+        "it": "Gruppo",
+        "ar": "مجموعة",
+        "hi": "समूह"
+    },
+    "Product name": {
+        "fr": "Nom du produit",
+        "es": "Nombre del producto",
+        "it": "Nome prodotto",
+        "ar": "اسم المنتج",
+        "hi": "उत्पाद का नाम"
+    },
+    "Save product": {
+        "fr": "Enregistrer le produit",
+        "es": "Guardar producto",
+        "it": "Salva prodotto",
+        "ar": "حفظ المنتج",
+        "hi": "उत्पाद सहेजें"
+    },
+    "New product": {
+        "fr": "Nouveau produit",
+        "es": "Nuevo producto",
+        "it": "Nuovo prodotto",
+        "ar": "منتج جديد",
+        "hi": "नया उत्पाद"
+    },
+    "Edit product": {
+        "fr": "Modifier le produit",
+        "es": "Editar producto",
+        "it": "Modifica prodotto",
+        "ar": "تعديل المنتج",
+        "hi": "उत्पाद संपादित करें"
+    },
+    "Video URL": {
+        "fr": "URL de la vidéo",
+        "es": "URL del vídeo",
+        "it": "URL del video",
+        "ar": "رابط الفيديو",
+        "hi": "वीडियो यूआरएल"
+    },
+    "YouTube or Vimeo. It plays under the photos on the product page.": {
+        "fr": "YouTube ou Vimeo. La vidéo se lit sous les photos de la fiche produit.",
+        "es": "YouTube o Vimeo. Se reproduce bajo las fotos de la ficha.",
+        "it": "YouTube o Vimeo. Si riproduce sotto le foto della scheda.",
+        "ar": "يوتيوب أو فيميو. يُعرض تحت صور صفحة المنتج.",
+        "hi": "YouTube या Vimeo. उत्पाद फ़ोटो के नीचे चलता है."
+    },
+    "Select brand": {
+        "fr": "Choisir une marque",
+        "es": "Elegir marca",
+        "it": "Scegli marca",
+        "ar": "اختر علامة",
+        "hi": "ब्रांड चुनें"
+    },
+    "Visibility": {
+        "fr": "Visibilité",
+        "es": "Visibilidad",
+        "it": "Visibilità",
+        "ar": "الظهور",
+        "hi": "दृश्यता"
+    },
+    "Where do you want your product to appear?": {
+        "fr": "Où le produit doit-il apparaître ?",
+        "es": "¿Dónde debe aparecer el producto?",
+        "it": "Dove deve comparire il prodotto?",
+        "ar": "أين تريد ظهور المنتج؟",
+        "hi": "उत्पाद कहाँ दिखे?"
+    },
+    "Everywhere": {
+        "fr": "Partout",
+        "es": "En todas partes",
+        "it": "Ovunque",
+        "ar": "في كل مكان",
+        "hi": "हर जगह"
+    },
+    "Catalog only": {
+        "fr": "Catalogue seulement",
+        "es": "Solo catálogo",
+        "it": "Solo catalogo",
+        "ar": "الكتالوج فقط",
+        "hi": "केवल कैटलॉग"
+    },
+    "Search only": {
+        "fr": "Recherche seulement",
+        "es": "Solo búsqueda",
+        "it": "Solo ricerca",
+        "ar": "البحث فقط",
+        "hi": "केवल खोज"
+    },
+    "Nowhere": {
+        "fr": "Nulle part",
+        "es": "En ninguna parte",
+        "it": "Da nessuna parte",
+        "ar": "في لا مكان",
+        "hi": "कहीं नहीं"
+    },
+    "Customers can access the product by browsing the catalog, using the search bar, or the link.": {
+        "fr": "Les clients y accèdent par le catalogue, la recherche ou le lien.",
+        "es": "Los clientes acceden por el catálogo, la búsqueda o el enlace.",
+        "it": "I clienti lo trovano dal catalogo, dalla ricerca o dal link.",
+        "ar": "يمكن للعملاء الوصول عبر الكتالوج أو البحث أو الرابط.",
+        "hi": "ग्राहक कैटलॉग, खोज या लिंक से पहुँच सकते हैं."
+    },
+    "Customers can access the product by browsing the catalog or the link.": {
+        "fr": "Les clients y accèdent par le catalogue ou le lien.",
+        "es": "Los clientes acceden por el catálogo o el enlace.",
+        "it": "I clienti lo trovano dal catalogo o dal link.",
+        "ar": "يمكن للعملاء الوصول عبر الكتالوج أو الرابط.",
+        "hi": "ग्राहक कैटलॉग या लिंक से पहुँच सकते हैं."
+    },
+    "Customers can access the product by using the search bar or the link.": {
+        "fr": "Les clients y accèdent par la recherche ou le lien.",
+        "es": "Los clientes acceden por la búsqueda o el enlace.",
+        "it": "I clienti lo trovano dalla ricerca o dal link.",
+        "ar": "يمكن للعملاء الوصول عبر البحث أو الرابط.",
+        "hi": "ग्राहक खोज या लिंक से पहुँच सकते हैं."
+    },
+    "The product is not visible. Customers can only access it with the link.": {
+        "fr": "Le produit est masqué. Seul le lien permet d’y accéder.",
+        "es": "El producto está oculto. Solo se accede con el enlace.",
+        "it": "Il prodotto è nascosto. Si raggiunge solo con il link.",
+        "ar": "المنتج غير ظاهر. الوصول فقط عبر الرابط.",
+        "hi": "उत्पाद छिपा है. केवल लिंक से खुलेगा."
+    },
+    "Short description (max {max})": {
+        "fr": "Description courte (max {max})",
+        "es": "Descripción breve (máx {max})",
+        "it": "Descrizione breve (max {max})",
+        "ar": "وصف قصير (الحد {max})",
+        "hi": "संक्षिप्त विवरण (अधिकतम {max})"
+    },
+    "Description (max {max})": {
+        "fr": "Description (max {max})",
+        "es": "Descripción (máx {max})",
+        "it": "Descrizione (max {max})",
+        "ar": "الوصف (الحد {max})",
+        "hi": "विवरण (अधिकतम {max})"
+    },
+    "Max limit {max}": {
+        "fr": "Limite max {max}",
+        "es": "Límite máx {max}",
+        "it": "Limite max {max}",
+        "ar": "الحد الأقصى {max}",
+        "hi": "अधिकतम सीमा {max}"
+    },
+    "Write product description, headings, lists, and insert images…": {
+        "fr": "Rédigez la description, des titres, des listes, et insérez des images…",
+        "es": "Escribe la descripción, títulos, listas e inserta imágenes…",
+        "it": "Scrivi la descrizione, titoli, elenchi e inserisci immagini…",
+        "ar": "اكتب الوصف والعناوين والقوائم وأدرج الصور…",
+        "hi": "विवरण, शीर्षक, सूचियाँ लिखें और चित्र जोड़ें…"
+    },
+    "Details": {
+        "fr": "Détails",
+        "es": "Detalles",
+        "it": "Dettagli",
+        "ar": "التفاصيل",
+        "hi": "विवरण"
+    },
+    "Pricing": {
+        "fr": "Tarifs",
+        "es": "Precios",
+        "it": "Prezzi",
+        "ar": "التسعير",
+        "hi": "मूल्य"
+    },
+    "Combinations": {
+        "fr": "Déclinaisons",
+        "es": "Combinaciones",
+        "it": "Combinazioni",
+        "ar": "التركيبات",
+        "hi": "संयोजन"
+    },
+    "Customizable": {
+        "fr": "Personnalisable",
+        "es": "Personalizable",
+        "it": "Personalizzabile",
+        "ar": "قابل للتخصيص",
+        "hi": "अनुकूलन"
+    },
+    "Subscription": {
+        "fr": "Abonnement",
+        "es": "Suscripción",
+        "it": "Abbonamento",
+        "ar": "اشتراك",
+        "hi": "सदस्यता"
+    },
+    "Pre-order": {
+        "fr": "Précommande",
+        "es": "Reserva",
+        "it": "Preordine",
+        "ar": "طلب مسبق",
+        "hi": "प्री-ऑर्डर"
+    },
+    "Digital files": {
+        "fr": "Fichiers numériques",
+        "es": "Archivos digitales",
+        "it": "File digitali",
+        "ar": "ملفات رقمية",
+        "hi": "डिजिटल फ़ाइलें"
+    },
+    "Gift card": {
+        "fr": "Carte cadeau",
+        "es": "Tarjeta regalo",
+        "it": "Carta regalo",
+        "ar": "بطاقة هدية",
+        "hi": "गिफ्ट कार्ड"
+    },
+    "Gift Card": {
+        "fr": "Carte cadeau",
+        "es": "Tarjeta regalo",
+        "it": "Carta regalo",
+        "ar": "بطاقة هدية",
+        "hi": "गिफ्ट कार्ड"
+    },
+    "Service": {
+        "fr": "Service",
+        "es": "Servicio",
+        "it": "Servizio",
+        "ar": "خدمة",
+        "hi": "सेवा"
+    },
+    "Rental": {
+        "fr": "Location",
+        "es": "Alquiler",
+        "it": "Noleggio",
+        "ar": "إيجار",
+        "hi": "किराया"
+    },
+    "Bundle": {
+        "fr": "Lot",
+        "es": "Pack",
+        "it": "Bundle",
+        "ar": "حزمة",
+        "hi": "बंडल"
+    },
+    "Variants": {
+        "fr": "Variantes",
+        "es": "Variantes",
+        "it": "Varianti",
+        "ar": "المتغيرات",
+        "hi": "वेरिएंट"
+    },
+    "Attributes": {
+        "fr": "Attributs",
+        "es": "Atributos",
+        "it": "Attributi",
+        "ar": "السمات",
+        "hi": "विशेषताएँ"
+    },
+    "History": {
+        "fr": "Historique",
+        "es": "Historial",
+        "it": "Cronologia",
+        "ar": "السجل",
+        "hi": "इतिहास"
+    },
+    "Standard": {
+        "fr": "Standard",
+        "es": "Estándar",
+        "it": "Standard",
+        "ar": "قياسي",
+        "hi": "स्टैंडर्ड"
+    },
+    "Grouped": {
+        "fr": "Groupé",
+        "es": "Agrupado",
+        "it": "Raggruppato",
+        "ar": "مجمّع",
+        "hi": "समूहित"
+    },
+    "Virtual": {
+        "fr": "Virtuel",
+        "es": "Virtual",
+        "it": "Virtuale",
+        "ar": "افتراضي",
+        "hi": "वर्चुअल"
+    },
+    "Column title": {
+        "fr": "Titre de colonne",
+        "es": "Título de columna",
+        "it": "Titolo colonna",
+        "ar": "عنوان العمود",
+        "hi": "कॉलम शीर्षक"
+    },
+    "Link label": {
+        "fr": "Libellé du lien",
+        "es": "Etiqueta del enlace",
+        "it": "Etichetta link",
+        "ar": "نص الرابط",
+        "hi": "लिंक लेबल"
+    },
+    "Copyright line": {
+        "fr": "Ligne de copyright",
+        "es": "Línea de copyright",
+        "it": "Riga copyright",
+        "ar": "سطر حقوق النشر",
+        "hi": "कॉपीराइट पंक्ति"
+    },
+    "Button label": {
+        "fr": "Libellé du bouton",
+        "es": "Texto del botón",
+        "it": "Testo pulsante",
+        "ar": "نص الزر",
+        "hi": "बटन लेबल"
+    },
+    "Kicker": {
+        "fr": "Surtitre",
+        "es": "Antetítulo",
+        "it": "Occhiello",
+        "ar": "سطر علوي",
+        "hi": "किकर"
+    },
+    "Subtitle": {
+        "fr": "Sous-titre",
+        "es": "Subtítulo",
+        "it": "Sottotitolo",
+        "ar": "عنوان فرعي",
+        "hi": "उपशीर्षक"
+    },
+    "Title": {
+        "fr": "Titre",
+        "es": "Título",
+        "it": "Titolo",
+        "ar": "العنوان",
+        "hi": "शीर्षक"
+    },
+    "Announcement text": {
+        "fr": "Texte d’annonce",
+        "es": "Texto del anuncio",
+        "it": "Testo annuncio",
+        "ar": "نص الإعلان",
+        "hi": "घोषणा पाठ"
+    },
+    "Contact label": {
+        "fr": "Libellé du contact",
+        "es": "Etiqueta de contacto",
+        "it": "Etichetta contatto",
+        "ar": "نص جهة الاتصال",
+        "hi": "संपर्क लेबल"
+    },
+    "New tab": {
+        "fr": "Nouvel onglet",
+        "es": "Nueva pestaña",
+        "it": "Nuova scheda",
+        "ar": "تبويب جديد",
+        "hi": "नया टैब"
+    },
+    "Logo text override": {
+        "fr": "Texte du logo",
+        "es": "Texto del logo",
+        "it": "Testo del logo",
+        "ar": "نص الشعار",
+        "hi": "लोगो पाठ"
+    },
+    "Product video": {
+        "fr": "Vidéo du produit",
+        "es": "Vídeo del producto",
+        "it": "Video prodotto",
+        "ar": "فيديو المنتج",
+        "hi": "उत्पाद वीडियो"
+    },
+    "Links": {
+        "fr": "Liens",
+        "es": "Enlaces",
+        "it": "Link",
+        "ar": "روابط",
+        "hi": "लिंक"
+    },
+    "Add link": {
+        "fr": "Ajouter un lien",
+        "es": "Añadir enlace",
+        "it": "Aggiungi link",
+        "ar": "إضافة رابط",
+        "hi": "लिंक जोड़ें"
+    },
+    "Add column": {
+        "fr": "Ajouter une colonne",
+        "es": "Añadir columna",
+        "it": "Aggiungi colonna",
+        "ar": "إضافة عمود",
+        "hi": "कॉलम जोड़ें"
+    },
+    "Remove column": {
+        "fr": "Retirer la colonne",
+        "es": "Quitar columna",
+        "it": "Rimuovi colonna",
+        "ar": "إزالة العمود",
+        "hi": "कॉलम हटाएँ"
+    },
+    "URL": {
+        "fr": "URL",
+        "es": "URL",
+        "it": "URL",
+        "ar": "الرابط",
+        "hi": "यूआरएल"
+    },
+    "Image URL": {
+        "fr": "URL de l’image",
+        "es": "URL de la imagen",
+        "it": "URL immagine",
+        "ar": "رابط الصورة",
+        "hi": "चित्र यूआरएल"
+    },
+    "Body": {
+        "fr": "Texte",
+        "es": "Texto",
+        "it": "Testo",
+        "ar": "النص",
+        "hi": "पाठ"
+    },
+    "HTML": {
+        "fr": "HTML",
+        "es": "HTML",
+        "it": "HTML",
+        "ar": "HTML",
+        "hi": "HTML"
+    },
+    "Quote": {
+        "fr": "Citation",
+        "es": "Cita",
+        "it": "Citazione",
+        "ar": "اقتباس",
+        "hi": "उद्धरण"
+    },
+    "Role": {
+        "fr": "Rôle",
+        "es": "Rol",
+        "it": "Ruolo",
+        "ar": "الدور",
+        "hi": "भूमिका"
+    },
+    "How many products": {
+        "fr": "Nombre de produits",
+        "es": "Cuántos productos",
+        "it": "Quanti prodotti",
+        "ar": "عدد المنتجات",
+        "hi": "कितने उत्पाद"
+    },
+    "Square PNG, JPG, WebP, or GIF (max 2 MB). Save theme settings after uploading.": {
+        "fr": "PNG, JPG, WebP ou GIF carré (2 Mo max). Enregistrez ensuite.",
+        "es": "PNG, JPG, WebP o GIF cuadrado (máx. 2 MB). Guarda después.",
+        "it": "PNG, JPG, WebP o GIF quadrato (max 2 MB). Poi salva.",
+        "ar": "PNG أو JPG أو WebP أو GIF مربع (2 م.ب). ثم احفظ.",
+        "hi": "वर्गाकार PNG, JPG, WebP या GIF (अधिकतम 2 MB). फिर सहेजें."
+    },
+    "The small icon in the browser tab.": {
+        "fr": "La petite icône de l’onglet.",
+        "es": "El icono de la pestaña.",
+        "it": "L’icona della scheda.",
+        "ar": "أيقونة علامة التبويب.",
+        "hi": "ब्राउज़र टैब का आइकन."
+    },
+    "Default icon": {
+        "fr": "Icône par défaut",
+        "es": "Icono predeterminado",
+        "it": "Icona predefinita",
+        "ar": "الأيقونة الافتراضية",
+        "hi": "डिफ़ॉल्ट आइकन"
+    },
+    "Default logo": {
+        "fr": "Logo par défaut",
+        "es": "Logo predeterminado",
+        "it": "Logo predefinito",
+        "ar": "الشعار الافتراضي",
+        "hi": "डिफ़ॉल्ट लोगो"
+    },
+    "Header menu": {
+        "fr": "Menu d’en-tête",
+        "es": "Menú de cabecera",
+        "it": "Menu intestazione",
+        "ar": "قائمة الترويسة",
+        "hi": "हेडर मेनू"
+    },
+    "Category menu": {
+        "fr": "Menu des catégories",
+        "es": "Menú de categorías",
+        "it": "Menu categorie",
+        "ar": "قائمة الفئات",
+        "hi": "श्रेणी मेनू"
+    },
+    "Custom menu": {
+        "fr": "Menu personnalisé",
+        "es": "Menú personalizado",
+        "it": "Menu personalizzato",
+        "ar": "قائمة مخصصة",
+        "hi": "कस्टम मेनू"
+    },
+    "Choose categories": {
+        "fr": "Choisir les catégories",
+        "es": "Elegir categorías",
+        "it": "Scegli categorie",
+        "ar": "اختر الفئات",
+        "hi": "श्रेणियाँ चुनें"
+    },
+    "Edit custom menu": {
+        "fr": "Modifier le menu",
+        "es": "Editar el menú",
+        "it": "Modifica menu",
+        "ar": "تعديل القائمة",
+        "hi": "मेनू संपादित करें"
+    },
+    "Logo text": {
+        "fr": "Texte du logo",
+        "es": "Texto del logo",
+        "it": "Testo del logo",
+        "ar": "نص الشعار",
+        "hi": "लोगो पाठ"
+    },
+    "Show top bar": {
+        "fr": "Afficher la barre",
+        "es": "Mostrar la barra",
+        "it": "Mostra la barra",
+        "ar": "إظهار الشريط",
+        "hi": "टॉप बार दिखाएँ"
+    },
+    "Announcement, phone, and links above the header.": {
+        "fr": "Annonce, téléphone et liens au-dessus de l’en-tête.",
+        "es": "Anuncio, teléfono y enlaces sobre la cabecera.",
+        "it": "Annuncio, telefono e link sopra l’intestazione.",
+        "ar": "إعلان وهاتف وروابط فوق الترويسة.",
+        "hi": "हेडर के ऊपर घोषणा, फ़ोन और लिंक."
+    },
+    "Selected": {
+        "fr": "Sélectionné",
+        "es": "Seleccionado",
+        "it": "Selezionato",
+        "ar": "محدد",
+        "hi": "चयनित"
+    },
+    "Cart style": {
+        "fr": "Style du panier",
+        "es": "Estilo del carrito",
+        "it": "Stile carrello",
+        "ar": "شكل السلة",
+        "hi": "कार्ट शैली"
+    },
+    "Pill": {
+        "fr": "Pastille",
+        "es": "Pastilla",
+        "it": "Pillola",
+        "ar": "كبسولة",
+        "hi": "पिल"
+    },
+    "Icon only": {
+        "fr": "Icône seule",
+        "es": "Solo icono",
+        "it": "Solo icona",
+        "ar": "أيقونة فقط",
+        "hi": "केवल आइकन"
+    },
+    "Text inside the header search box.": {
+        "fr": "Texte dans la recherche de l’en-tête.",
+        "es": "Texto del buscador de la cabecera.",
+        "it": "Testo nella ricerca dell’intestazione.",
+        "ar": "نص مربع البحث في الترويسة.",
+        "hi": "हेडर खोज बॉक्स का पाठ."
+    },
+    "Logo, search, and the menu in the header.": {
+        "fr": "Logo, recherche et menu de l’en-tête.",
+        "es": "Logo, búsqueda y menú de la cabecera.",
+        "it": "Logo, ricerca e menu dell’intestazione.",
+        "ar": "الشعار والبحث وقائمة الترويسة.",
+        "hi": "लोगो, खोज और हेडर मेनू."
+    },
+    "Storefront preview": {
+        "fr": "Aperçu de la boutique",
+        "es": "Vista de la tienda",
+        "it": "Anteprima negozio",
+        "ar": "معاينة المتجر",
+        "hi": "स्टोर पूर्वावलोकन"
+    },
+    "Move left": {
+        "fr": "Déplacer à gauche",
+        "es": "Mover a la izquierda",
+        "it": "Sposta a sinistra",
+        "ar": "تحريك لليسار",
+        "hi": "बाएँ ले जाएँ"
+    },
+    "Move right": {
+        "fr": "Déplacer à droite",
+        "es": "Mover a la derecha",
+        "it": "Sposta a destra",
+        "ar": "تحريك لليمين",
+        "hi": "दाएँ ले जाएँ"
+    },
+    "Named pages in this column.": {
+        "fr": "Pages nommées dans cette colonne.",
+        "es": "Páginas con nombre en esta columna.",
+        "it": "Pagine con nome in questa colonna.",
+        "ar": "صفحات بأسماء في هذا العمود.",
+        "hi": "इस कॉलम में नामित पेज."
+    },
+    "Shop name, address, email, and phone from store settings.": {
+        "fr": "Nom, adresse, e-mail et téléphone des réglages.",
+        "es": "Nombre, dirección, correo y teléfono de la tienda.",
+        "it": "Nome, indirizzo, email e telefono dalle impostazioni.",
+        "ar": "الاسم والعنوان والبريد والهاتف من إعدادات المتجر.",
+        "hi": "स्टोर सेटिंग से नाम, पता, ईमेल और फ़ोन."
+    },
+    "Catalog categories, plus any extra links.": {
+        "fr": "Catégories du catalogue, plus des liens.",
+        "es": "Categorías del catálogo y enlaces extra.",
+        "it": "Categorie del catalogo, più link extra.",
+        "ar": "فئات الكتالوج وروابط إضافية.",
+        "hi": "कैटलॉग श्रेणियाँ और अतिरिक्त लिंक."
+    },
+    "Pick categories. Each one already has its page URL.": {
+        "fr": "Choisissez des catégories. Chacune a déjà son URL.",
+        "es": "Elige categorías. Cada una ya tiene su URL.",
+        "it": "Scegli le categorie. Ognuna ha già il suo URL.",
+        "ar": "اختر الفئات. لكل منها رابطه.",
+        "hi": "श्रेणियाँ चुनें. हर एक का पेज यूआरएल पहले से है."
+    },
+    "Choose a category": {
+        "fr": "Choisir une catégorie",
+        "es": "Elegir una categoría",
+        "it": "Scegli una categoria",
+        "ar": "اختر فئة",
+        "hi": "श्रेणी चुनें"
+    },
+    "No links yet.": {
+        "fr": "Aucun lien.",
+        "es": "Sin enlaces.",
+        "it": "Nessun link.",
+        "ar": "لا توجد روابط.",
+        "hi": "अभी कोई लिंक नहीं."
+    },
+    "Add the first column": {
+        "fr": "Ajouter la première colonne",
+        "es": "Añadir la primera columna",
+        "it": "Aggiungi la prima colonna",
+        "ar": "أضف العمود الأول",
+        "hi": "पहला कॉलम जोड़ें"
+    },
+    "Hero Banner": {
+        "fr": "Bannière principale",
+        "es": "Banner principal",
+        "it": "Banner principale",
+        "ar": "البانر الرئيسي",
+        "hi": "हीरो बैनर"
+    },
+    "Pick layout 1 \/ 2 \/ 3 and configure it.": {
+        "fr": "Choisissez la mise en page 1 \/ 2 \/ 3, puis configurez.",
+        "es": "Elige el diseño 1 \/ 2 \/ 3 y configúralo.",
+        "it": "Scegli il layout 1 \/ 2 \/ 3 e configuralo.",
+        "ar": "اختر التخطيط 1 \/ 2 \/ 3 ثم اضبطه.",
+        "hi": "लेआउट 1 \/ 2 \/ 3 चुनें और सेट करें."
+    },
+    "Full width": {
+        "fr": "Pleine largeur",
+        "es": "Ancho completo",
+        "it": "Larghezza intera",
+        "ar": "عرض كامل",
+        "hi": "पूरी चौड़ाई"
+    },
+    "Two banners": {
+        "fr": "Deux bannières",
+        "es": "Dos banners",
+        "it": "Due banner",
+        "ar": "بانران",
+        "hi": "दो बैनर"
+    },
+    "Main and two sides": {
+        "fr": "Principal et deux côtés",
+        "es": "Principal y dos laterales",
+        "it": "Principale e due lati",
+        "ar": "رئيسي وجانبان",
+        "hi": "मुख्य और दो साइड"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-04",
+  "description": "Bundled shelf. Other extensions are installed from the WentoCart marketplace.",
+  "extensions": [
+    {
+      "vendor": "weblytic",
+      "name": "mainmenu",
+      "display_name": "Main Menu",
+      "category": "storefront",
+      "source": "local"
+    }
+  ]
+}

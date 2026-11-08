@@ -1,0 +1,251 @@
+/* Plugin layer: loaded only by ui/Editor.jsx. Do not copy into page CSS. */
+
+.admin-editor-shell {
+    position: relative;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    background: #fff;
+    /* visible so AI menu can open above the pill without being clipped / unclickable */
+    overflow: visible;
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+}
+
+.admin-editor-shell.is-loading {
+    padding: 1.25rem;
+    color: #64748b;
+    font-size: 0.875rem;
+}
+
+.admin-editor-menubar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.5rem;
+    align-items: center;
+    padding: 0.55rem 0.65rem;
+    border-bottom: 1px solid #e2e8f0;
+    background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
+}
+
+.admin-editor-group {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    padding: 2px;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    background: #fff;
+}
+
+.admin-editor-btn {
+    appearance: none;
+    border: 0;
+    background: transparent;
+    color: #334155;
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    display: inline-grid;
+    place-items: center;
+    cursor: pointer;
+    padding: 0;
+}
+
+.admin-editor-btn:hover:not(:disabled) {
+    background: #ede9fe;
+    color: #5b21b6;
+}
+
+.admin-editor-btn.is-active {
+    background: #5b21b6;
+    color: #fff;
+}
+
+.admin-editor-btn:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+}
+
+.admin-editor-xy {
+    font-size: 11px;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.admin-editor-select {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    background: #fff;
+    color: #334155;
+    font: inherit;
+    font-size: 0.8rem;
+    font-weight: 600;
+    height: 36px;
+    padding: 0 0.55rem;
+    min-width: 7.5rem;
+}
+
+.admin-editor-color {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    display: grid;
+    place-items: center;
+    border-radius: 6px;
+    color: #334155;
+    cursor: pointer;
+}
+
+.admin-editor-color:hover {
+    background: #ede9fe;
+    color: #5b21b6;
+}
+
+.admin-editor-color input[type='color'] {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+}
+
+.admin-editor-limit {
+    margin: 0;
+    padding: 20px;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    color: #737373;
+}
+
+.admin-editor-limit.is-over {
+    color: #dc2626;
+}
+
+.admin-editor .ProseMirror {
+    min-height: 14rem;
+    outline: none;
+    padding: 1rem 1.1rem 1.25rem;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #0f172a;
+}
+
+.admin-editor .ProseMirror p {
+    margin: 0.4rem 0;
+}
+
+.admin-editor .ProseMirror h1 {
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin: 0.9rem 0 0.45rem;
+    letter-spacing: -0.03em;
+}
+
+.admin-editor .ProseMirror h2 {
+    font-size: 1.4rem;
+    font-weight: 800;
+    margin: 0.8rem 0 0.4rem;
+}
+
+.admin-editor .ProseMirror h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 0.7rem 0 0.35rem;
+}
+
+.admin-editor .ProseMirror h4,
+.admin-editor .ProseMirror h5,
+.admin-editor .ProseMirror h6 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0.55rem 0 0.3rem;
+}
+
+.admin-editor .ProseMirror ul,
+.admin-editor .ProseMirror ol {
+    margin: 0.45rem 0;
+    padding-left: 1.4rem;
+}
+
+.admin-editor .ProseMirror blockquote {
+    margin: 0.6rem 0;
+    padding: 0.4rem 0.85rem;
+    border-left: 3px solid #7c3aed;
+    color: #475569;
+    background: #faf5ff;
+    border-radius: 0 8px 8px 0;
+}
+
+.admin-editor .ProseMirror pre {
+    background: #0f172a;
+    color: #e2e8f0;
+    border-radius: 10px;
+    padding: 0.85rem 1rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+}
+
+.admin-editor .ProseMirror code {
+    font-family: ui-monospace, Consolas, monospace;
+    font-size: 0.9em;
+    background: #f1f5f9;
+    padding: 0.1em 0.35em;
+    border-radius: 4px;
+}
+
+.admin-editor .ProseMirror pre code {
+    background: transparent;
+    padding: 0;
+    color: inherit;
+}
+
+.admin-editor .ProseMirror img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 0.6rem 0;
+}
+
+.admin-editor .ProseMirror a {
+    color: #5b21b6;
+    text-decoration: underline;
+}
+
+.admin-editor .ProseMirror table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0.75rem 0;
+    table-layout: fixed;
+}
+
+.admin-editor .ProseMirror td,
+.admin-editor .ProseMirror th {
+    border: 1px solid #cbd5e1;
+    padding: 0.45rem 0.55rem;
+    vertical-align: top;
+}
+
+.admin-editor .ProseMirror th {
+    background: #f8fafc;
+    font-weight: 700;
+}
+
+.admin-editor .ProseMirror p.is-editor-empty:first-child::before {
+    color: #94a3b8;
+    content: attr(data-placeholder);
+    float: left;
+    height: 0;
+    pointer-events: none;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}

@@ -1,0 +1,37 @@
+<?php
+
+namespace App\Http\Controllers\Api\V1;
+
+use App\Domain\Api\Graphql\GraphqlAdminAuth;
+use App\Domain\Localization\Support\CountryCsvSchema;
+use App\Http\Controllers\Controller;
+use App\Models\Admin;
+use Illuminate\Http\Request;
+use Illuminate\Http\Response;
+use Illuminate\Support\Facades\Auth;
+use Symfony\Component\HttpFoundation\StreamedResponse;
+
+/**
+ * Countries CSV → /api/v1/console/countries/export
+ */
+class AdminCountriesExportController extends Controller
+{
+    public function __invoke(Request $request): StreamedResponse|Response
+    {
+        GraphqlAdminAuth::bind($request);
+        $admin = Auth::guard('admin')->user();
+        if (! $admin instanceof Admin) {
+            return response('Unauthenticated.', 401);
+        }
+        if (! $admin->hasPermission('settings.manage')) {
+            return response('Forbidden.', 403);
+        }
+
+        $csv = CountryCsvSchema::exportCsv();
+        $filename = 'countries-'.now()->format('Ymd-His').'.csv';
+
+        return response()->streamDownload(function () use ($csv) {
+            echo $csv;
+        }, $filename, ['Content-Type' => 'text/csv; charset=UTF-8']);
+    }
+}

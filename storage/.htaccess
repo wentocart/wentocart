@@ -1,0 +1,17 @@
+# Folder Apache installs map /storage/* onto this directory (same name as
+# the public disk URL). Deny logs/cache; send media to storage/app/public.
+
+<IfModule mod_autoindex.c>
+    Options -Indexes
+</IfModule>
+
+<IfModule mod_authz_core.c>
+    Require all granted
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^app/public/(.*)$ - [L]
+    RewriteRule ^(logs|framework|app)(/|$) - [F,L]
+    RewriteRule ^(.*)$ app/public/$1 [L]
+</IfModule>

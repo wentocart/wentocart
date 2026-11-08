@@ -1,0 +1,143 @@
+.email-canvas {
+    --gjs-primary-color: #6d28d9;
+    --gjs-secondary-color: #4c1d95;
+    --gjs-tertiary-color: #7c3aed;
+    --gjs-quaternary-color: #a78bfa;
+    --gjs-font-color: #171717;
+    --gjs-font-color-active: #ffffff;
+    --gjs-main-color: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #ffffff;
+}
+
+.email-canvas-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 10px 12px;
+    border-bottom: 1px solid #e5e7eb;
+    background: #fafafa;
+}
+
+.email-canvas-stage {
+    min-height: 640px;
+    height: 640px;
+    position: relative;
+}
+
+.email-canvas-stage .gjs-editor,
+.email-canvas-stage .gjs-cv-canvas {
+    height: 100%;
+}
+
+.email-canvas .gjs-one-bg {
+    background-color: #ffffff;
+}
+
+.email-canvas .gjs-two-color {
+    color: #171717;
+}
+
+.email-canvas .gjs-three-bg {
+    background-color: #6d28d9;
+}
+
+.email-canvas .gjs-four-color,
+.email-canvas .gjs-four-color-h:hover {
+    color: #6d28d9;
+}
+
+.email-canvas .gjs-cv-canvas {
+    background-color: #f7f8fa;
+    width: 100%;
+}
+
+.email-canvas .gjs-pn-panel {
+    border-color: #e5e7eb;
+}
+
+.email-canvas .gjs-block {
+    min-height: 72px;
+    width: 45%;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+    box-shadow: none;
+}
+
+.email-canvas .gjs-block:hover {
+    border-color: #6d28d9;
+    color: #6d28d9;
+}
+
+.email-canvas .gjs-pn-devices-c {
+    display: none;
+}
+
+.email-canvas .gjs-pn-btn.gjs-pn-active {
+    background-color: #ede9fe;
+    color: #6d28d9;
+    box-shadow: none;
+}
+
+.page-canvas-stage {
+    display: flex;
+    align-items: stretch;
+    min-height: 640px;
+    height: 640px;
+}
+
+.page-canvas-blocks {
+    width: 220px;
+    flex: 0 0 220px;
+    overflow: auto;
+    border-right: 1px solid #e5e7eb;
+    background: #fafafa;
+    padding: 12px;
+}
+
+.page-canvas-blocks-label {
+    margin: 0 0 8px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #404040;
+}
+
+.page-canvas-blocks .gjs-blocks-c {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.page-canvas-blocks .gjs-block-category .gjs-title {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #737373;
+    background: transparent;
+    padding: 8px 0 4px;
+}
+
+.page-canvas-frame {
+    position: relative;
+    flex: 1 1 auto;
+    min-width: 0;
+    background: #f7f8fa;
+}
+
+.page-canvas-frame .gjs-editor {
+    height: 100%;
+}
+
+.email-canvas-status {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    background: #ffffff;
+    z-index: 2;
+}

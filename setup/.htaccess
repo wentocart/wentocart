@@ -1,0 +1,7 @@
+Options -Indexes
+<FilesMatch "\.(json|log|lock|vbs|md)$">
+    Require all denied
+</FilesMatch>
+<FilesMatch "^(lib|guard|worker|install-worker|probe)\.php$">
+    Require all denied
+</FilesMatch>

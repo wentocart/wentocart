@@ -1,0 +1,19 @@
+# WentoCart
+
+> Self-hosted, open-source commerce. Laravel and React. Licensed under OSL-3.0.
+
+- Website: https://wentocart.com
+- Documentation: https://wentocart.com/documentation
+- Download: https://wentocart.com/download
+- Marketplace: https://marketplace.wentocart.com
+- Source: this repository
+
+## For developers
+
+- Install from source: see `README.md` and `docs/INSTALL.md`
+- Shop GraphQL: `POST /api/v1/graphql`
+- Admin GraphQL: `POST /api/v1/console/graphql`
+- Live operation index on a running shop: `GET /api/v1/llms.txt`
+- OpenAPI: `GET /api/v1/store/docs` and `GET /api/v1/console/docs`
+
+This repository ships the Classic theme and the Main Menu extension. Other modules are installed from the marketplace.
