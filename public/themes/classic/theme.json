@@ -1,0 +1,80 @@
+{
+    "name": "classic",
+    "display_name": "Classic",
+    "version": "2.2.0",
+    "author": "WentoCart",
+    "parent": null,
+    "engine": "react-vite",
+    "description": "Core storefront bundled with the shop. Logo and search header, accent navigation, split hero, category shelves, and every catalog, account, and CMS page.",
+    "preview": "preview.svg",
+    "layouts": [
+        "home",
+        "catalog",
+        "category",
+        "product",
+        "search",
+        "deal",
+        "compare",
+        "brands",
+        "brand",
+        "cart",
+        "checkout",
+        "order-success",
+        "login",
+        "register",
+        "forgot-password",
+        "reset-password",
+        "account",
+        "orders",
+        "wishlist",
+        "profile",
+        "addresses",
+        "vouchers",
+        "reviews",
+        "help",
+        "about",
+        "blog",
+        "cms",
+        "contact",
+        "shop",
+        "supplier",
+        "404"
+    ],
+    "slots": [
+        "header.promo",
+        "home.hero",
+        "home.promos",
+        "category.banner",
+        "footer"
+    ],
+    "settings": {
+        "preset": "azure",
+        "logo_text": "",
+        "logo_url": "/themes/classic/assets/merchant/ui/logo.png",
+        "favicon_url": "/themes/classic/assets/img/favicon.png",
+        "announcement": "Super sale up to 20% in this holiday",
+        "announcement_url": "/catalog",
+        "top_bar": {
+            "enabled": true,
+            "background": "#3361cf",
+            "text_color": "#f8fafc"
+        },
+        "colors": {
+            "accent": "#4F46E5",
+            "accent_soft": "#EEF2FF",
+            "ink": "#0F172A",
+            "muted": "#64748B",
+            "surface": "#FAFAFA",
+            "card": "#FFFFFF",
+            "header": "#FFFFFF",
+            "footer": "#0F172A",
+            "sale": "#F43F5E",
+            "highlight": "#F59E0B"
+        },
+        "radius": "14px",
+        "font": "Plus Jakarta Sans"
+    },
+    "assets": {
+        "css": ["assets/header.css"]
+    }
+}

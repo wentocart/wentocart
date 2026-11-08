@@ -1,0 +1,6 @@
+pending_chunks/
+retranslate_chunks/
+source-translations-cache.json
+unique-sources.json
+chunks/
+*.log

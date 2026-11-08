@@ -1,0 +1,52 @@
+/**
+ * Shared admin list — selected-row “pen highlight”.
+ * Applied by <Tr selected={boolean} /> (adds .admin-list-row + .is-selected).
+ * Optional overrides (e.g. Product Settings) on an ancestor:
+ *   --admin-list-row-color, --admin-list-row-duration
+ */
+
+@property --admin-list-row-hl {
+    syntax: '<percentage>';
+    inherits: false;
+    initial-value: 0%;
+}
+
+.admin-list-row {
+    --admin-list-row-hl: 0%;
+    background-color: transparent;
+    background-image: linear-gradient(
+        90deg,
+        var(--admin-list-row-color, #ffece5) 0,
+        var(--admin-list-row-color, #ffece5) var(--admin-list-row-hl),
+        transparent var(--admin-list-row-hl)
+    );
+    background-repeat: no-repeat;
+    transition: --admin-list-row-hl var(--admin-list-row-duration, 1100ms) cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.admin-list-row.is-selected {
+    --admin-list-row-hl: 100%;
+}
+
+/* Let the row background show through — no per-cell fill. */
+.admin-list-row > td {
+    background-color: transparent !important;
+    background-image: none !important;
+}
+
+/* Keep Tailwind row hover from covering the paint while selected. */
+.admin-list-highlight-off .admin-list-row,
+.admin-list-highlight-off .admin-list-row.is-selected {
+    background-image: none;
+    transition: none;
+}
+
+.admin-list-row.is-selected:hover {
+    background-color: transparent !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .admin-list-row {
+        transition: none;
+    }
+}

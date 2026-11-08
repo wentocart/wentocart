@@ -1,0 +1,40 @@
+{
+  "name": "Germany",
+  "country": {
+    "code": "DE",
+    "iso3": "DEU",
+    "name": "Germany",
+    "calling_code": "+49",
+    "default_currency_code": "EUR",
+    "timezone": "Europe/Berlin",
+    "address_format": "eu",
+    "postal_code_label": "PLZ",
+    "tax_id_label": "USt-IdNr.",
+    "has_regions": true
+  },
+  "language": { "code": "de", "name": "German" },
+  "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+  "taxes": [
+    { "class": "VAT", "name": "MwSt 19%", "rate": 19, "priority": 100 },
+    { "class": "VAT-reduced", "name": "MwSt 7%", "rate": 7, "priority": 100 }
+  ],
+  "units": { "weight": "kg", "dimension": "cm", "volume": "l" },
+  "regions": [
+    { "code": "BW", "name": "Baden-Wurttemberg" },
+    { "code": "BY", "name": "Bavaria" },
+    { "code": "BE", "name": "Berlin" },
+    { "code": "BB", "name": "Brandenburg" },
+    { "code": "HB", "name": "Bremen" },
+    { "code": "HH", "name": "Hamburg" },
+    { "code": "HE", "name": "Hesse" },
+    { "code": "MV", "name": "Mecklenburg-Western Pomerania" },
+    { "code": "NI", "name": "Lower Saxony" },
+    { "code": "NW", "name": "North Rhine-Westphalia" },
+    { "code": "RP", "name": "Rhineland-Palatinate" },
+    { "code": "SL", "name": "Saarland" },
+    { "code": "SN", "name": "Saxony" },
+    { "code": "ST", "name": "Saxony-Anhalt" },
+    { "code": "SH", "name": "Schleswig-Holstein" },
+    { "code": "TH", "name": "Thuringia" }
+  ]
+}

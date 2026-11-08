@@ -1,0 +1,594 @@
+{
+    "name": "United States",
+    "country": {
+        "code": "US",
+        "iso3": "USA",
+        "name": "United States",
+        "calling_code": "+1",
+        "default_currency_code": "USD",
+        "timezone": "America/New_York",
+        "address_format": "us",
+        "postal_code_label": "ZIP Code",
+        "tax_id_label": "EIN",
+        "has_regions": true
+    },
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "currency": {
+        "code": "USD",
+        "name": "US Dollar",
+        "symbol": "$"
+    },
+    "taxes": [
+        {
+            "class": "Sales tax",
+            "name": "Alabama sales tax",
+            "rate": 4,
+            "region": "AL",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Alaska sales tax",
+            "rate": 0,
+            "region": "AK",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Arizona sales tax",
+            "rate": 5.6,
+            "region": "AZ",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Arkansas sales tax",
+            "rate": 6.5,
+            "region": "AR",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "California sales tax",
+            "rate": 7.25,
+            "region": "CA",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Colorado sales tax",
+            "rate": 2.9,
+            "region": "CO",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Connecticut sales tax",
+            "rate": 6.35,
+            "region": "CT",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Delaware sales tax",
+            "rate": 0,
+            "region": "DE",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "District of Columbia sales tax",
+            "rate": 6,
+            "region": "DC",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Florida sales tax",
+            "rate": 6,
+            "region": "FL",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Georgia sales tax",
+            "rate": 4,
+            "region": "GA",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Hawaii sales tax",
+            "rate": 4,
+            "region": "HI",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Idaho sales tax",
+            "rate": 6,
+            "region": "ID",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Illinois sales tax",
+            "rate": 6.25,
+            "region": "IL",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Indiana sales tax",
+            "rate": 7,
+            "region": "IN",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Iowa sales tax",
+            "rate": 6,
+            "region": "IA",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Kansas sales tax",
+            "rate": 6.5,
+            "region": "KS",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Kentucky sales tax",
+            "rate": 6,
+            "region": "KY",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Louisiana sales tax",
+            "rate": 4.45,
+            "region": "LA",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Maine sales tax",
+            "rate": 5.5,
+            "region": "ME",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Maryland sales tax",
+            "rate": 6,
+            "region": "MD",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Massachusetts sales tax",
+            "rate": 6.25,
+            "region": "MA",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Michigan sales tax",
+            "rate": 6,
+            "region": "MI",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Minnesota sales tax",
+            "rate": 6.875,
+            "region": "MN",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Mississippi sales tax",
+            "rate": 7,
+            "region": "MS",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Missouri sales tax",
+            "rate": 4.225,
+            "region": "MO",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Montana sales tax",
+            "rate": 0,
+            "region": "MT",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Nebraska sales tax",
+            "rate": 5.5,
+            "region": "NE",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Nevada sales tax",
+            "rate": 6.85,
+            "region": "NV",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "New Hampshire sales tax",
+            "rate": 0,
+            "region": "NH",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "New Jersey sales tax",
+            "rate": 6.625,
+            "region": "NJ",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "New Mexico sales tax",
+            "rate": 4.875,
+            "region": "NM",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "New York sales tax",
+            "rate": 4,
+            "region": "NY",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "North Carolina sales tax",
+            "rate": 4.75,
+            "region": "NC",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "North Dakota sales tax",
+            "rate": 5,
+            "region": "ND",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Ohio sales tax",
+            "rate": 5.75,
+            "region": "OH",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Oklahoma sales tax",
+            "rate": 4.5,
+            "region": "OK",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Oregon sales tax",
+            "rate": 0,
+            "region": "OR",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Pennsylvania sales tax",
+            "rate": 6,
+            "region": "PA",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Rhode Island sales tax",
+            "rate": 7,
+            "region": "RI",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "South Carolina sales tax",
+            "rate": 6,
+            "region": "SC",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "South Dakota sales tax",
+            "rate": 4.5,
+            "region": "SD",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Tennessee sales tax",
+            "rate": 7,
+            "region": "TN",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Texas sales tax",
+            "rate": 6.25,
+            "region": "TX",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Utah sales tax",
+            "rate": 4.85,
+            "region": "UT",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Vermont sales tax",
+            "rate": 6,
+            "region": "VT",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Virginia sales tax",
+            "rate": 4.3,
+            "region": "VA",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Washington sales tax",
+            "rate": 6.5,
+            "region": "WA",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "West Virginia sales tax",
+            "rate": 6,
+            "region": "WV",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Wisconsin sales tax",
+            "rate": 5,
+            "region": "WI",
+            "priority": 100
+        },
+        {
+            "class": "Sales tax",
+            "name": "Wyoming sales tax",
+            "rate": 4,
+            "region": "WY",
+            "priority": 100
+        }
+    ],
+    "units": {
+        "weight": "lb",
+        "dimension": "in",
+        "volume": "gal"
+    },
+    "regions": [
+        {
+            "code": "AL",
+            "name": "Alabama"
+        },
+        {
+            "code": "AK",
+            "name": "Alaska"
+        },
+        {
+            "code": "AZ",
+            "name": "Arizona"
+        },
+        {
+            "code": "AR",
+            "name": "Arkansas"
+        },
+        {
+            "code": "CA",
+            "name": "California"
+        },
+        {
+            "code": "CO",
+            "name": "Colorado"
+        },
+        {
+            "code": "CT",
+            "name": "Connecticut"
+        },
+        {
+            "code": "DE",
+            "name": "Delaware"
+        },
+        {
+            "code": "DC",
+            "name": "District of Columbia"
+        },
+        {
+            "code": "FL",
+            "name": "Florida"
+        },
+        {
+            "code": "GA",
+            "name": "Georgia"
+        },
+        {
+            "code": "HI",
+            "name": "Hawaii"
+        },
+        {
+            "code": "ID",
+            "name": "Idaho"
+        },
+        {
+            "code": "IL",
+            "name": "Illinois"
+        },
+        {
+            "code": "IN",
+            "name": "Indiana"
+        },
+        {
+            "code": "IA",
+            "name": "Iowa"
+        },
+        {
+            "code": "KS",
+            "name": "Kansas"
+        },
+        {
+            "code": "KY",
+            "name": "Kentucky"
+        },
+        {
+            "code": "LA",
+            "name": "Louisiana"
+        },
+        {
+            "code": "ME",
+            "name": "Maine"
+        },
+        {
+            "code": "MD",
+            "name": "Maryland"
+        },
+        {
+            "code": "MA",
+            "name": "Massachusetts"
+        },
+        {
+            "code": "MI",
+            "name": "Michigan"
+        },
+        {
+            "code": "MN",
+            "name": "Minnesota"
+        },
+        {
+            "code": "MS",
+            "name": "Mississippi"
+        },
+        {
+            "code": "MO",
+            "name": "Missouri"
+        },
+        {
+            "code": "MT",
+            "name": "Montana"
+        },
+        {
+            "code": "NE",
+            "name": "Nebraska"
+        },
+        {
+            "code": "NV",
+            "name": "Nevada"
+        },
+        {
+            "code": "NH",
+            "name": "New Hampshire"
+        },
+        {
+            "code": "NJ",
+            "name": "New Jersey"
+        },
+        {
+            "code": "NM",
+            "name": "New Mexico"
+        },
+        {
+            "code": "NY",
+            "name": "New York"
+        },
+        {
+            "code": "NC",
+            "name": "North Carolina"
+        },
+        {
+            "code": "ND",
+            "name": "North Dakota"
+        },
+        {
+            "code": "OH",
+            "name": "Ohio"
+        },
+        {
+            "code": "OK",
+            "name": "Oklahoma"
+        },
+        {
+            "code": "OR",
+            "name": "Oregon"
+        },
+        {
+            "code": "PA",
+            "name": "Pennsylvania"
+        },
+        {
+            "code": "RI",
+            "name": "Rhode Island"
+        },
+        {
+            "code": "SC",
+            "name": "South Carolina"
+        },
+        {
+            "code": "SD",
+            "name": "South Dakota"
+        },
+        {
+            "code": "TN",
+            "name": "Tennessee"
+        },
+        {
+            "code": "TX",
+            "name": "Texas"
+        },
+        {
+            "code": "UT",
+            "name": "Utah"
+        },
+        {
+            "code": "VT",
+            "name": "Vermont"
+        },
+        {
+            "code": "VA",
+            "name": "Virginia"
+        },
+        {
+            "code": "WA",
+            "name": "Washington"
+        },
+        {
+            "code": "WV",
+            "name": "West Virginia"
+        },
+        {
+            "code": "WI",
+            "name": "Wisconsin"
+        },
+        {
+            "code": "WY",
+            "name": "Wyoming"
+        }
+    ]
+}

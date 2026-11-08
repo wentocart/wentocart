@@ -1,0 +1,31 @@
+{
+  "name": "United Arab Emirates",
+  "country": {
+    "code": "AE",
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "calling_code": "+971",
+    "default_currency_code": "AED",
+    "timezone": "Asia/Dubai",
+    "address_format": "ae",
+    "postal_code_label": "PO Box",
+    "tax_id_label": "TRN",
+    "has_regions": true
+  },
+  "language": { "code": "en", "name": "English" },
+  "currency": { "code": "AED", "name": "UAE Dirham", "symbol": "د.إ" },
+  "taxes": [
+    { "class": "VAT", "name": "VAT 5%", "rate": 5, "priority": 100 },
+    { "class": "Zero-rated", "name": "Zero-rated 0%", "rate": 0, "priority": 100 }
+  ],
+  "units": { "weight": "kg", "dimension": "cm", "volume": "l" },
+  "regions": [
+    { "code": "AZ", "name": "Abu Dhabi" },
+    { "code": "AJ", "name": "Ajman" },
+    { "code": "DU", "name": "Dubai" },
+    { "code": "FU", "name": "Fujairah" },
+    { "code": "RK", "name": "Ras Al Khaimah" },
+    { "code": "SH", "name": "Sharjah" },
+    { "code": "UQ", "name": "Umm Al Quwain" }
+  ]
+}

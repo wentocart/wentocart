@@ -1,0 +1,29 @@
+{
+  "name": "New Zealand",
+  "country": {
+    "code": "NZ",
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "calling_code": "+64",
+    "default_currency_code": "NZD",
+    "timezone": "Pacific/Auckland",
+    "address_format": "nz",
+    "postal_code_label": "Postcode",
+    "tax_id_label": "GST number",
+    "has_regions": true
+  },
+  "language": { "code": "en", "name": "English" },
+  "currency": { "code": "NZD", "name": "New Zealand Dollar", "symbol": "NZ$" },
+  "taxes": [
+    { "class": "GST", "name": "GST 15%", "rate": 15, "priority": 100 }
+  ],
+  "units": { "weight": "kg", "dimension": "cm", "volume": "l" },
+  "regions": [
+    { "code": "AUK", "name": "Auckland" },
+    { "code": "WGN", "name": "Wellington" },
+    { "code": "CAN", "name": "Canterbury" },
+    { "code": "WKO", "name": "Waikato" },
+    { "code": "BOP", "name": "Bay of Plenty" },
+    { "code": "OTA", "name": "Otago" }
+  ]
+}

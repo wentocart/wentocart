@@ -1,0 +1,25 @@
+{
+    "vendor": "weblytic",
+    "name": "mainmenu",
+    "display_name": "Main menu",
+    "version": "1.0.0",
+    "author": "Weblytic Labs",
+    "type": "safe",
+    "description": "Build and manage your storefront’s main navigation. Add categories, CMS pages, and custom links, set order and visibility, and open selected links in a new tab.",
+    "capabilities": [
+        "admin.menu",
+        "admin.pages",
+        "settings",
+        "catalog.read",
+        "cms.read",
+        "storefront.pages",
+        "admin.assets"
+    ],
+    "setup_steps": [
+        "Open Main menu → Configure and add the items you want in the header.",
+        "Use Main menu → Links for custom URLs (labels, destination, new tab).",
+        "In Theme settings → Header, choose Custom menu (Main menu) so the storefront uses this menu.",
+        "Save and refresh the storefront to see your navigation."
+    ],
+    "preview": "preview.svg"
+}

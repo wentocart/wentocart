@@ -1,0 +1,82 @@
+openapi: 3.0.3
+info:
+  title: WentoCart Shop API
+  version: "1.0"
+  description: >
+    Headless REST surface for the React storefront and third-party clients.
+    GraphQL shop queries are available at POST /api/v1/graphql (shop, product, products, categories).
+servers:
+  - url: /api/v1
+paths:
+  /shop:
+    get:
+      summary: Shop identity and storefront boot payload
+      responses:
+        "200":
+          description: Shop payload
+  /catalog/home:
+    get:
+      summary: Home catalog sections
+      responses:
+        "200":
+          description: Home payload
+  /catalog/search:
+    get:
+      summary: Product search
+      parameters:
+        - in: query
+          name: q
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Search results
+  /catalog/product/{slug}:
+    get:
+      summary: Product detail
+      parameters:
+        - in: path
+          name: slug
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Product payload
+  /graphql:
+    post:
+      summary: Shop GraphQL (catalog + cart + placeOrder)
+      description: >
+        Queries: shop, product, products, categories, cart.
+        Mutations: cartAdd, cartUpdateQty, cartRemoveItem, placeOrder.
+  /admin/graphql:
+    post:
+      summary: Admin GraphQL (read orders/products; auth:admin)
+      responses:
+        "200":
+          description: GraphQL response
+        "401":
+          description: Unauthenticated
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [query]
+              properties:
+                query:
+                  type: string
+                variables:
+                  type: object
+                operationName:
+                  type: string
+      responses:
+        "200":
+          description: GraphQL response
+  /cart:
+    get:
+      summary: Cart (REST)
+      responses:
+        "200":
+          description: Cart payload

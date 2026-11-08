@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#f8fafc"/>
+  <rect x="40" y="40" width="560" height="48" rx="8" fill="#0f172a"/>
+  <rect x="56" y="56" width="64" height="16" rx="4" fill="#94a3b8"/>
+  <rect x="140" y="56" width="72" height="16" rx="4" fill="#e2e8f0"/>
+  <rect x="228" y="56" width="88" height="16" rx="4" fill="#e2e8f0"/>
+  <rect x="332" y="56" width="64" height="16" rx="4" fill="#e2e8f0"/>
+  <rect x="40" y="112" width="560" height="248" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="64" y="152" fill="#0f172a" font-size="22" font-family="Arial, sans-serif" font-weight="700">Main menu</text>
+  <text x="64" y="180" fill="#64748b" font-size="14" font-family="Arial, sans-serif">Categories · CMS pages · Custom links</text>
+  <rect x="64" y="208" width="160" height="36" rx="6" fill="#f1f5f9"/>
+  <rect x="240" y="208" width="160" height="36" rx="6" fill="#f1f5f9"/>
+  <rect x="416" y="208" width="160" height="36" rx="6" fill="#f1f5f9"/>
+  <rect x="64" y="260" width="512" height="72" rx="8" fill="#eff6ff"/>
+</svg>

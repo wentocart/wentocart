@@ -1,0 +1,1 @@
+# Pre-release: schema lives in database/schema/*.sql, not dated Laravel migrations.

@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📖 Official Documentation
+    url: https://wentocart.com/documentation
+    about: Read the official installation, configuration, and developer guides.
+  - name: 🌐 Live Interactive Demo
+    url: https://demo.wentocart.com
+    about: Test the storefront and back-office live in your browser.
+  - name: 🧩 Extension Marketplace
+    url: https://marketplace.wentocart.com
+    about: Browse vetted modules, themes, and integrations.

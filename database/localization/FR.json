@@ -1,0 +1,38 @@
+{
+  "name": "France",
+  "country": {
+    "code": "FR",
+    "iso3": "FRA",
+    "name": "France",
+    "calling_code": "+33",
+    "default_currency_code": "EUR",
+    "timezone": "Europe/Paris",
+    "address_format": "eu",
+    "postal_code_label": "Code postal",
+    "tax_id_label": "TVA",
+    "has_regions": true
+  },
+  "language": { "code": "fr", "name": "French" },
+  "currency": { "code": "EUR", "name": "Euro", "symbol": "€" },
+  "taxes": [
+    { "class": "VAT", "name": "TVA 20%", "rate": 20, "priority": 100 },
+    { "class": "VAT-reduced", "name": "TVA 10%", "rate": 10, "priority": 100 },
+    { "class": "VAT-super-reduced", "name": "TVA 5.5%", "rate": 5.5, "priority": 100 }
+  ],
+  "units": { "weight": "kg", "dimension": "cm", "volume": "l" },
+  "regions": [
+    { "code": "ARA", "name": "Auvergne-Rhone-Alpes" },
+    { "code": "BFC", "name": "Bourgogne-Franche-Comte" },
+    { "code": "BRE", "name": "Bretagne" },
+    { "code": "CVL", "name": "Centre-Val de Loire" },
+    { "code": "COR", "name": "Corse" },
+    { "code": "GES", "name": "Grand Est" },
+    { "code": "HDF", "name": "Hauts-de-France" },
+    { "code": "IDF", "name": "Ile-de-France" },
+    { "code": "NOR", "name": "Normandie" },
+    { "code": "NAQ", "name": "Nouvelle-Aquitaine" },
+    { "code": "OCC", "name": "Occitanie" },
+    { "code": "PDL", "name": "Pays de la Loire" },
+    { "code": "PAC", "name": "Provence-Alpes-Cote d Azur" }
+  ]
+}
