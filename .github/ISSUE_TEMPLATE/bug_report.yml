@@ -1,0 +1,49 @@
+name: '🐛 Bug Report'
+description: 'Report a bug or unexpected behavior in WentoCart Core.'
+title: '[Bug]: '
+labels: ['bug', 'triage']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report an issue! Please search existing issues before creating a new one.
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is.
+      placeholder: Describe what happened...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this behavior?
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment Info
+      description: PHP version, Database (MySQL/MariaDB), OS, WentoCart version.
+      placeholder: 'e.g. WentoCart 1.0.0, PHP 8.3, MySQL 8.0, Ubuntu 24.04'
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or Logs
+      description: Drag and drop screenshots or paste stack traces/logs here.

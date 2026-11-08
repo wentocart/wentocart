@@ -1,0 +1,75 @@
+@import 'tailwindcss';
+@import '@fortawesome/fontawesome-free/css/fontawesome.css';
+@import '@fortawesome/fontawesome-free/css/solid.css';
+@import '@fortawesome/fontawesome-free/css/regular.css';
+@import '@fortawesome/fontawesome-free/css/brands.css';
+/* Always on the admin entry — shared chunk CSS can miss dynamic Inertia pages. */
+@import '../js/admin/ui/kpi-cards.css';
+@import '../js/admin/ui/list-row-highlight.css';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../js/admin/**/*.jsx';
+@source '../js/admin/ui/classes.js';
+
+@theme {
+    --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+
+    --color-surface: #f7f8fa;
+    --color-panel: #ffffff;
+    --color-line: #e5e7eb;
+    --color-ink: #171717;
+    --color-muted: #737373;
+    --color-brand: #6d28d9;
+    --color-brand-soft: #f5f3ff;
+    --color-brand-deep: #5b21b6;
+
+    /* Admin shell — sticky form heads sit in main (below the topbar). */
+    --admin-topbar-height: 3.5rem;
+    --admin-sidebar-width: 248px;
+    --admin-sidebar-width-collapsed: 64px;
+    --admin-sidebar-duration: 300ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    :root {
+        --admin-sidebar-duration: 0ms;
+    }
+}
+
+/*
+ * Common layer only: Tailwind + tokens.
+ * Do not add .btn / .table / .card here — those live as Tailwind strings in
+ * resources/js/admin/ui/classes.js and are rendered by ui/ components.
+ * Plugin CSS (TipTap) lives in resources/js/admin/ui/editor.css and is imported
+ * only by ui/Editor.jsx. Page-only CSS is imported by that page alone.
+ * Before writing any selector: grep classes.js and this file. Reuse or extend.
+ */
+
+html,
+body,
+#app {
+    min-height: 100dvh;
+}
+
+/*
+ * A 14-inch laptop is usually under 1600 CSS pixels after Windows scaling,
+ * and the current 16px root already reads well there. A 24-inch desktop is
+ * often 1920px or wider at 100% scaling, where the same type looks small.
+ * Grow the root with the window so every rem size follows. 1920px → 18px.
+ * Widths under 1600px stay at 16px, so a 14-inch laptop is unchanged.
+ */
+html {
+    font-size: clamp(16px, calc(16px + (100vw - 1600px) * 0.00625), 20px);
+}
+
+body {
+    font-family: var(--font-sans);
+}
+
+/* Hero slide rows mix language fields and plain fields. Keep the label line one height so the inputs start together. */
+.hero-field-grid > .space-y-1 > :first-child {
+    min-height: 2.5rem;
+    display: flex;
+    align-items: center;
+}

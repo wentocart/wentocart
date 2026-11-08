@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#ede7ff"/>
+  <rect x="48" y="140" width="544" height="120" rx="16" fill="#6d3aed"/>
+  <text x="80" y="192" fill="#ffffff" font-size="28" font-family="Arial, sans-serif" font-weight="700">Sample kit</text>
+  <text x="80" y="228" fill="#e4d7ff" font-size="16" font-family="Arial, sans-serif">Menu, lists, slots, actions</text>
+</svg>

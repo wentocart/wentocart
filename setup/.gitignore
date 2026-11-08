@@ -1,0 +1,6 @@
+*
+!.gitignore
+!.htaccess
+!*.php
+!*.vbs
+!logo.jpeg

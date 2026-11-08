@@ -1,0 +1,176 @@
+{
+    "name": "Canada",
+    "country": {
+        "code": "CA",
+        "iso3": "CAN",
+        "name": "Canada",
+        "calling_code": "+1",
+        "default_currency_code": "CAD",
+        "timezone": "America/Toronto",
+        "address_format": "ca",
+        "postal_code_label": "Postal code",
+        "tax_id_label": "BN",
+        "has_regions": true
+    },
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "currency": {
+        "code": "CAD",
+        "name": "Canadian Dollar",
+        "symbol": "C$"
+    },
+    "units": {
+        "weight": "kg",
+        "dimension": "cm",
+        "volume": "l"
+    },
+    "regions": [
+        {
+            "code": "AB",
+            "name": "Alberta"
+        },
+        {
+            "code": "BC",
+            "name": "British Columbia"
+        },
+        {
+            "code": "MB",
+            "name": "Manitoba"
+        },
+        {
+            "code": "NB",
+            "name": "New Brunswick"
+        },
+        {
+            "code": "NL",
+            "name": "Newfoundland and Labrador"
+        },
+        {
+            "code": "NS",
+            "name": "Nova Scotia"
+        },
+        {
+            "code": "NT",
+            "name": "Northwest Territories"
+        },
+        {
+            "code": "NU",
+            "name": "Nunavut"
+        },
+        {
+            "code": "ON",
+            "name": "Ontario"
+        },
+        {
+            "code": "PE",
+            "name": "Prince Edward Island"
+        },
+        {
+            "code": "QC",
+            "name": "Quebec"
+        },
+        {
+            "code": "SK",
+            "name": "Saskatchewan"
+        },
+        {
+            "code": "YT",
+            "name": "Yukon"
+        }
+    ],
+    "taxes": [
+        {
+            "class": "GST/HST",
+            "name": "Alberta GST",
+            "rate": 5,
+            "region": "AB",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "British Columbia GST+PST",
+            "rate": 12,
+            "region": "BC",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Manitoba GST+RST",
+            "rate": 12,
+            "region": "MB",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "New Brunswick HST",
+            "rate": 15,
+            "region": "NB",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Newfoundland and Labrador HST",
+            "rate": 15,
+            "region": "NL",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Nova Scotia HST",
+            "rate": 15,
+            "region": "NS",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Northwest Territories GST",
+            "rate": 5,
+            "region": "NT",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Nunavut GST",
+            "rate": 5,
+            "region": "NU",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Ontario HST",
+            "rate": 13,
+            "region": "ON",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Prince Edward Island HST",
+            "rate": 15,
+            "region": "PE",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Quebec GST+QST",
+            "rate": 14.975,
+            "region": "QC",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Saskatchewan GST+PST",
+            "rate": 11,
+            "region": "SK",
+            "priority": 100
+        },
+        {
+            "class": "GST/HST",
+            "name": "Yukon GST",
+            "rate": 5,
+            "region": "YT",
+            "priority": 100
+        }
+    ]
+}

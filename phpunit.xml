@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
+         bootstrap="vendor/autoload.php"
+         colors="true"
+>
+    <testsuites>
+        <testsuite name="Unit">
+            <directory>tests/Unit</directory>
+        </testsuite>
+        <testsuite name="Feature">
+            <directory>tests/Feature</directory>
+        </testsuite>
+        <!-- SQL-sensitive pack run on sqlite + pgsql + mariadb + mysql in CI -->
+        <testsuite name="Dialect">
+            <file>tests/Unit/DbGrammarTest.php</file>
+            <file>tests/Feature/GraphqlShopTest.php</file>
+            <file>tests/Feature/GraphqlPlaceOrderTest.php</file>
+            <file>tests/Feature/GraphqlWishlistReviewsTest.php</file>
+            <file>tests/Feature/GraphqlCompareAddressesTest.php</file>
+            <file>tests/Feature/GraphqlBearerAuthTest.php</file>
+            <file>tests/Feature/GraphqlMeTokenTest.php</file>
+            <file>tests/Feature/AdminGraphqlTest.php</file>
+            <file>tests/Feature/GraphqlOrdersNewsletterTest.php</file>
+            <file>tests/Feature/GraphqlCustomerLoginTest.php</file>
+            <file>tests/Feature/CatalogSearchTest.php</file>
+            <file>tests/Feature/PublicApiCacheTest.php</file>
+            <file>tests/Feature/OmnibusPriceHistoryTest.php</file>
+            <file>tests/Feature/EuWithdrawalTest.php</file>
+            <file>tests/Feature/BenchmarkStorefrontTest.php</file>
+            <file>tests/Feature/OctaneInstallTest.php</file>
+            <file>tests/Feature/StackRuntimeLeadTest.php</file>
+            <file>tests/Feature/PostgresSchemaTranslatorTest.php</file>
+        </testsuite>
+    </testsuites>
+    <source>
+        <include>
+            <directory>app</directory>
+        </include>
+    </source>
+    <php>
+        <env name="APP_ENV" value="testing"/>
+        <env name="APP_KEY" value="base64:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="/>
+        <env name="APP_MAINTENANCE_DRIVER" value="file"/>
+        <env name="BCRYPT_ROUNDS" value="4"/>
+        <env name="BROADCAST_CONNECTION" value="null"/>
+        <env name="CACHE_STORE" value="array"/>
+        <!-- No force: CI exports DB_* for pgsql/mariadb/mysql; local default stays sqlite :memory: -->
+        <env name="DB_CONNECTION" value="sqlite"/>
+        <env name="DB_DATABASE" value=":memory:"/>
+        <env name="DB_PREFIX" value=""/>
+        <env name="DB_URL" value=""/>
+        <env name="MAIL_MAILER" value="array"/>
+        <env name="QUEUE_CONNECTION" value="sync"/>
+        <env name="SESSION_DRIVER" value="array"/>
+        <env name="OCTANE_SERVER" value="frankenphp"/>
+        <env name="REDIS_CLIENT" value="predis"/>
+        <env name="PULSE_ENABLED" value="false"/>
+        <env name="TELESCOPE_ENABLED" value="false"/>
+        <env name="APP_URL" value="http://localhost"/>
+        <env name="SANCTUM_STATEFUL_DOMAINS" value="localhost"/>
+        <env name="WENTO_INSTALLED" value="true"/>
+    </php>
+</phpunit>

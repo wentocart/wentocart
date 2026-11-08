@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#ede7ff"/>
+  <rect x="48" y="160" width="544" height="80" rx="16" fill="#6d3aed"/>
+  <text x="80" y="210" fill="#ffffff" font-size="28" font-family="Arial, sans-serif" font-weight="700">Sample notice app</text>
+</svg>

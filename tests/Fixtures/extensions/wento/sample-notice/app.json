@@ -1,0 +1,12 @@
+{
+  "vendor": "wento",
+  "name": "sample-notice",
+  "display_name": "Sample notice",
+  "version": "1.0.0",
+  "author": "WentoCart",
+  "type": "safe",
+  "description": "Example Safe app. Declares an admin form and a storefront header notice. Use this as the template for community apps.",
+  "capabilities": ["admin.page", "settings", "storefront.slot", "hook.listen"],
+  "hooks": ["storefront.header.notice"],
+  "preview": "preview.svg"
+}

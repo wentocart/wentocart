@@ -1,0 +1,10 @@
+*
+!.gitignore
+!index.php
+!README.md
+!weblytic/
+!weblytic/index.php
+weblytic/*
+!weblytic/index.php
+!weblytic/mainmenu/
+!weblytic/mainmenu/**

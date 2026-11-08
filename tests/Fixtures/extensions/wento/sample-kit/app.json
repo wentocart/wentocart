@@ -1,0 +1,28 @@
+{
+  "vendor": "wento",
+  "name": "sample-kit",
+  "display_name": "Sample kit",
+  "version": "1.0.0",
+  "author": "WentoCart",
+  "type": "safe",
+  "description": "Reference Safe app: left menu group, hosted pages, list column, view slots, before/after actions, and storefront/account hooks.",
+  "capabilities": [
+    "admin.page",
+    "admin.menu",
+    "admin.pages",
+    "admin.assets",
+    "settings",
+    "list.extend",
+    "view.slot",
+    "storefront.slot",
+    "storefront.pages",
+    "account.menu",
+    "hook.listen",
+    "customers.read"
+  ],
+  "hooks": [
+    "action.catalog.product.delete.after",
+    "storefront.header.notice"
+  ],
+  "preview": "preview.svg"
+}

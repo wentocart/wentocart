@@ -1,0 +1,29 @@
+{
+  "name": "United Kingdom",
+  "country": {
+    "code": "GB",
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "calling_code": "+44",
+    "default_currency_code": "GBP",
+    "timezone": "Europe/London",
+    "address_format": "uk",
+    "postal_code_label": "Postcode",
+    "tax_id_label": "VAT number",
+    "has_regions": true
+  },
+  "language": { "code": "en", "name": "English" },
+  "currency": { "code": "GBP", "name": "Pound Sterling", "symbol": "£" },
+  "taxes": [
+    { "class": "VAT", "name": "VAT 20%", "rate": 20, "priority": 100 },
+    { "class": "VAT-reduced", "name": "VAT 5%", "rate": 5, "priority": 100 },
+    { "class": "VAT-zero", "name": "VAT 0%", "rate": 0, "priority": 100 }
+  ],
+  "units": { "weight": "kg", "dimension": "cm", "volume": "l" },
+  "regions": [
+    { "code": "ENG", "name": "England" },
+    { "code": "SCT", "name": "Scotland" },
+    { "code": "WLS", "name": "Wales" },
+    { "code": "NIR", "name": "Northern Ireland" }
+  ]
+}
